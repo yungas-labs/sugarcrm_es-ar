@@ -34,9 +34,13 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * technical reasons, the Appropriate Legal Notices must display the words
  * "Powered by SugarCRM".
  ********************************************************************************/
-
-
-
+/*********************************************************************************
+ * 
+ * Translation by Make IT Cooperative Limited 
+ * Traducción hecha por Cooperativa Make IT Limitada 
+ * http://www.make-it-coop.com.ar/
+ * 
+ ********************************************************************************/
 
 $mod_strings = array (
 	'LBL_MODULE_NAME' => 'Proyecto',
