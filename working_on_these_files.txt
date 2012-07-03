@@ -1,0 +1,4 @@
+Please add the following information each time you start a file translation:
+
+
+date-time	username	file									code
