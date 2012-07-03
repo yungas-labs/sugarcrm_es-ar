@@ -36,8 +36,8 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  ********************************************************************************/
 /*********************************************************************************
  * 
- * Translation by Make IT Cooperative Limited 
- * Traducción hecha por Cooperativa Make IT Limitada 
+ * Translation by Make IT Work Cooperative Limited
+ * Traducción hecha por Cooperativa de Trabajo Make IT Limitada 
  * http://www.make-it-coop.com.ar/
  * 
  ********************************************************************************/
