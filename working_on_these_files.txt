@@ -2,3 +2,7 @@ Please add the following information each time you start a file translation:
 
 
 date-time	username	file									code
+07-03-2012	rafabode	en_us/modules/Users/language/en_us.lang.php			        500
+07-03-2012	elnomade	en_us/modules/Configurator/language/en_us.lang.php			347
+07-03-2012	elnomade	en_us/modules/Prospects/language/en_us.lang.php				153
+
