@@ -3,6 +3,7 @@ sugarcrm_es-ar
 
 SugarCRM 6.5 - Spanish Argentina Language Pack
 
+* Se determinó con la herramienta cloc la cantidad de lineas en los archivos a traducir.
 
 cloc en_us
 defined(%hash) is deprecated at /usr/bin/cloc line 1277.
