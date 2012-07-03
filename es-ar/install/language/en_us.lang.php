@@ -43,26 +43,26 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * *******************************************************************************/
 
 $mod_strings = array(
-	'LBL_BASIC_SEARCH'					=> 'Basic Search',
-	'LBL_ADVANCED_SEARCH'				=> 'Advanced Search',
-	'LBL_BASIC_TYPE'					=> 'Basic Type',
-	'LBL_ADVANCED_TYPE'					=> 'Advanced Type',
-	'LBL_SYSOPTS_1'						=> 'Select from the following system configuration options below.',
-    'LBL_SYSOPTS_2'                     => 'What type of database will be used for the Sugar instance you are about to install?',
-	'LBL_SYSOPTS_CONFIG'				=> 'System Configuration',
+	'LBL_BASIC_SEARCH'					=> 'Búsqueda Básica',
+	'LBL_ADVANCED_SEARCH'				=> 'Búsqueda Avanzada',
+	'LBL_BASIC_TYPE'					=> 'Tipo Básico',
+	'LBL_ADVANCED_TYPE'					=> 'Tipo Avanzado',
+	'LBL_SYSOPTS_1'						=> 'Seleccione las opciones de la siguiente configuración del sistema.',
+    'LBL_SYSOPTS_2'                     => '¿Que tipo de Base de DAtos sera usada por esta implementación de Sugar a instalar?',
+	'LBL_SYSOPTS_CONFIG'				=> 'Configuración del Sistema',
 	'LBL_SYSOPTS_DB_TYPE'				=> '',
-	'LBL_SYSOPTS_DB'					=> 'Specify Database Type',
-    'LBL_SYSOPTS_DB_TITLE'              => 'Database Type',
-	'LBL_SYSOPTS_ERRS_TITLE'			=> 'Please fix the following errors before proceeding:',
-	'LBL_MAKE_DIRECTORY_WRITABLE'      => 'Please make the following directory writable:',
+	'LBL_SYSOPTS_DB'					=> 'Especificar Tipo de Base de Datos',
+    'LBL_SYSOPTS_DB_TITLE'              => 'Tipo de Base de Datos',
+	'LBL_SYSOPTS_ERRS_TITLE'			=> 'Por favor arregle los siguientes errores antes de continuar:',
+	'LBL_MAKE_DIRECTORY_WRITABLE'      => 'Por favor hacer escribible el siguiente directorio:',
 
 
-    'ERR_DB_VERSION_FAILURE'			=> 'Unable to check database version.',
+    'ERR_DB_VERSION_FAILURE'			=> 'Deshabilitar para verificar versión de la Base de Datos.',
 
 
 	'DEFAULT_CHARSET'					=> 'UTF-8',
-    'ERR_ADMIN_USER_NAME_BLANK'         => 'Provide the user name for the Sugar admin user. ',
-	'ERR_ADMIN_PASS_BLANK'				=> 'Provide the password for the Sugar admin user. ',
+    'ERR_ADMIN_USER_NAME_BLANK'         => 'Escribir el nombre de usuario para el usuario Administrador de Sugar. ',
+	'ERR_ADMIN_PASS_BLANK'				=> 'Escribir la contraseña del usuario Administrador de Sugar. ',
 
     //'ERR_CHECKSYS_CALL_TIME'			=> 'Allow Call Time Pass Reference is Off (please enable in php.ini)',
     'ERR_CHECKSYS'                      => 'Errors have been detected during compatibility check.  In order for your SugarCRM Installation to function properly, please take the proper steps to address the issues listed below and either press the recheck button, or try installing again.',
