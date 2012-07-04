@@ -46,7 +46,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 $mod_strings = array (
 	'LBL_MODULE_NAME' => 'Tareas de Proyecto',
-	'LBL_MODULE_TITLE' => 'Tarea de Proyecto: Principal',
+	'LBL_MODULE_TITLE' => 'Tarea de Proyecto: Inicio',
 	'LBL_SEARCH_FORM_TITLE' => 'Búsqueda de Tarea de Proyecto',
 	'LBL_LIST_FORM_TITLE'=> 'Lista de Tareas de Proyecto',
     'LBL_EDIT_TASK_IN_GRID_TITLE'=> 'Editar Tarea en la Cuadrícula',    

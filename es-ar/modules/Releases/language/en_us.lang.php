@@ -42,31 +42,39 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * All Rights Reserved.
  * Contributor(s): ______________________________________..
  ********************************************************************************/
-
+ 
+/*********************************************************************************
+ * 
+ * Translation by Make IT Work Cooperative Limited
+ * Traducción hecha por Cooperativa de Trabajo Make IT Limitada 
+ * http://www.make-it-coop.com.ar/
+ * 
+ ********************************************************************************/
+ 
 $mod_strings = array (
-  'LBL_MODULE_NAME' => 'Releases',
-  'LBL_MODULE_TITLE' => 'Releases: Home',
-  'LBL_SEARCH_FORM_TITLE' => 'Release Search',
-  'LBL_LIST_FORM_TITLE' => 'Release List',
-  'LBL_NEW_FORM_TITLE' => 'New Release',
-  'LBL_RELEASE' => 'Release:',
-  'LBL_LIST_NAME' => 'Release',
-  'LBL_NAME' => 'Release version:',
-  'LBL_LIST_LIST_ORDER' => 'Order',
-  'LBL_LIST_ORDER' => 'Order:',
-  'LBL_LIST_STATUS' => 'Status',
-  'LBL_STATUS' => 'Status:',
-  'LNK_NEW_RELEASE' => 'Release List',
-  'NTC_DELETE_CONFIRMATION' => 'Are you sure you want to delete this record?',
-  'ERR_DELETE_RECORD' => 'You must specify a record number to delete the release.',
-  'NTC_STATUS' => 'Set status to Inactive to remove this release from the Release dropdown lists',
-  'NTC_LIST_ORDER' => 'Set the order this release will appear in the Release dropdown lists',
+  'LBL_MODULE_NAME' => 'Entregas',
+  'LBL_MODULE_TITLE' => 'Entregas: Inicio',
+  'LBL_SEARCH_FORM_TITLE' => 'Búsqueda de Entrega',
+  'LBL_LIST_FORM_TITLE' => 'Lista de Entregas',
+  'LBL_NEW_FORM_TITLE' => 'Nueva Entrega',
+  'LBL_RELEASE' => 'Entrega:',
+  'LBL_LIST_NAME' => 'Entrega',
+  'LBL_NAME' => 'Versión de Entrega:',
+  'LBL_LIST_LIST_ORDER' => 'Orden',
+  'LBL_LIST_ORDER' => 'Orden:',
+  'LBL_LIST_STATUS' => 'Estado',
+  'LBL_STATUS' => 'Estado:',
+  'LNK_NEW_RELEASE' => 'Nueva Entrega',
+  'NTC_DELETE_CONFIRMATION' => '¿Está seguro que desea eliminar este registro?',
+  'ERR_DELETE_RECORD' => 'Debe especificar un número de registro para eliminar la Entrega.',
+  'NTC_STATUS' => 'Establecer el estado a inactivo para eliminar esta Entrega de la lista desplegable de Entregas',
+  'NTC_LIST_ORDER' => 'Establecer el orden de esta Entrega y aparecerá en la lista desplegable de Entregas',
   'release_status_dom' =>
   array (
-    'Active' => 'Active',
-    'Inactive' => 'Inactive',
+    'Active' => 'Activa',
+    'Inactive' => 'Inactiva',
 ),
-	'LBL_EDITLAYOUT' => 'Edit Layout' /*for 508 compliance fix*/,
+	'LBL_EDITLAYOUT' => 'Editar Distribución' /*for 508 compliance fix*/,
 );
 
 

@@ -35,26 +35,32 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * "Powered by SugarCRM".
  ********************************************************************************/
 
-
+/*********************************************************************************
+ * 
+ * Translation by Make IT Work Cooperative Limited
+ * Traducción hecha por Cooperativa de Trabajo Make IT Limitada 
+ * http://www.make-it-coop.com.ar/
+ * 
+ ********************************************************************************/
 
 
 $mod_strings = array (
-	'LBL_ROLE' => 'Role: ',
-	'LBL_LANGUAGE' => 'Language: ',
+	'LBL_ROLE' => 'Rol: ',
+	'LBL_LANGUAGE' => 'Lenguaje: ',
 	'LBL_MODULE_NAME' => 'Roles',
-	'LBL_MODULE_TITLE' => 'Roles: Home',
-	'LBL_SEARCH_FORM_TITLE' => 'Role Search',
-	'LBL_LIST_FORM_TITLE' => 'Role List',
-	'LNK_NEW_ROLE' => 'Create Role',
+	'LBL_MODULE_TITLE' => 'Roles: Inicio',
+	'LBL_SEARCH_FORM_TITLE' => 'Búsqueda de rol',
+	'LBL_LIST_FORM_TITLE' => 'Lista de Roles',
+	'LNK_NEW_ROLE' => 'Crear Rol',
 	'LNK_ROLES' => 'Roles',
-	'LBL_NAME' => 'Name: ',
-	'LBL_DESCRIPTION' => 'Description: ',
-	'LBL_ALLOWED_MODULES' => 'Allowed Modules: ',
-	'LBL_DISALLOWED_MODULES' => 'Disallowed Modules: ',
-	'LBL_ASSIGN_MODULES' => 'Edit Modules: ',
+	'LBL_NAME' => 'Nombre: ',
+	'LBL_DESCRIPTION' => 'Descripción: ',
+	'LBL_ALLOWED_MODULES' => 'Módulos Habilitados: ',
+	'LBL_DISALLOWED_MODULES' => 'Módulos Deshabilitados: ',
+	'LBL_ASSIGN_MODULES' => 'Editar Módulos: ',
 	'LBL_DEFAULT_SUBPANEL_TITLE' => 'Roles',
-	'LBL_USERS'=>'Users',
+	'LBL_USERS'=>'Usuarios',
 	
-	'LBL_USERS_SUBPANEL_TITLE' => 'Users',
+	'LBL_USERS_SUBPANEL_TITLE' => 'Usuarios',
 );
 ?>
