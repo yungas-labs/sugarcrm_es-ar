@@ -48,7 +48,7 @@ $mod_strings = array(
 	'LBL_BASIC_TYPE'					=> 'Tipo Básico',
 	'LBL_ADVANCED_TYPE'					=> 'Tipo Avanzado',
 	'LBL_SYSOPTS_1'						=> 'Seleccione las opciones de la siguiente configuración del sistema.',
-    'LBL_SYSOPTS_2'                     => '¿Que tipo de Base de DAtos sera usada por esta implementación de Sugar a instalar?',
+    'LBL_SYSOPTS_2'                     => '¿Que tipo de Base de Datos sera usada por esta implementación de Sugar a instalar?',
 	'LBL_SYSOPTS_CONFIG'				=> 'Configuración del Sistema',
 	'LBL_SYSOPTS_DB_TYPE'				=> '',
 	'LBL_SYSOPTS_DB'					=> 'Especificar Tipo de Base de Datos',
@@ -509,48 +509,54 @@ $mod_strings = array(
                                   <li><b>Character Set</b> most commonly used in your locale.<br><br></li></ul>
                                   For more detailed information, please consult the Installation Guide.
                                 ',
-    'LBL_WELCOME_PLEASE_READ_BELOW' => 'Please read the following important information before proceeding with the installation.  The information will help you determine whether or not you are ready to install the application at this time.',
+    'LBL_WELCOME_PLEASE_READ_BELOW' => 'Por favor, lea la siguiente información importante antes de continuar con la instalación.  La información te ayudará a determinar si estás o no preparado para instalar la aplicación en este momento.',
 
-	'LBL_WELCOME_CHOOSE_LANGUAGE'		=> '<b>Choose your language</b>',
-	'LBL_WELCOME_SETUP_WIZARD'			=> 'Setup Wizard',
-	'LBL_WELCOME_TITLE_WELCOME'			=> 'Welcome to the SugarCRM ',
-	'LBL_WELCOME_TITLE'					=> 'SugarCRM Setup Wizard',
-	'LBL_WIZARD_TITLE'					=> 'Sugar Setup Wizard: ',
-	'LBL_YES'							=> 'Yes',
-    'LBL_YES_MULTI'                     => 'Yes - Multibyte',
+	'LBL_WELCOME_CHOOSE_LANGUAGE'		=> '<b>Selecciona tu idioma</b>',
+	'LBL_WELCOME_SETUP_WIZARD'			=> 'Asistente de Instalación',
+	'LBL_WELCOME_TITLE_WELCOME'			=> 'Bienvenido a SugarCRM ',
+	'LBL_WELCOME_TITLE'					=> 'Asistente de Instalación de SugarCRM',
+	'LBL_WIZARD_TITLE'					=> 'Asistente de Instalación de Sugar: ',
+	'LBL_YES'							=> 'Sí',
+	'LBL_YES_MULTI'						=> 'Sí - Multibyte',
 	// OOTB Scheduler Job Names:
-	'LBL_OOTB_WORKFLOW'		=> 'Process Workflow Tasks',
-	'LBL_OOTB_REPORTS'		=> 'Run Report Generation Scheduled Tasks',
-	'LBL_OOTB_IE'			=> 'Check Inbound Mailboxes',
-	'LBL_OOTB_BOUNCE'		=> 'Run Nightly Process Bounced Campaign Emails',
-    'LBL_OOTB_CAMPAIGN'		=> 'Run Nightly Mass Email Campaigns',
-	'LBL_OOTB_PRUNE'		=> 'Prune Database on 1st of Month',
-    'LBL_OOTB_TRACKER'		=> 'Prune tracker tables',
-    'LBL_OOTB_SEND_EMAIL_REMINDERS'	=> 'Run Email Reminder Notifications',
-    'LBL_UPDATE_TRACKER_SESSIONS' => 'Update tracker_sessions table',
+	'LBL_OOTB_WORKFLOW'		=> 'Procesar Tareas del Workflow',
+	'LBL_OOTB_REPORTS'		=> 'Ejecutar Tareas Programadas de Generación de Informes',
+	'LBL_OOTB_IE'			=> 'Comprobar Bandejas de Entrada',
+	'LBL_OOTB_BOUNCE'		=> 'Ejecutar Proceso Nocturno de Correos de Campaña Rebotados',
+	'LBL_OOTB_CAMPAIGN'		=> 'Ejecutar Proceso Nocturno de Campañas de Correo Masivo',
+	'LBL_OOTB_PRUNE'		=> 'Truncar Base de datos al Inicio del Mes',
+	'LBL_OOTB_TRACKER'		=> 'Limpiar Tablas de Monitorización',    
+    
+    'LBL_OOTB_SEND_EMAIL_REMINDERS'	=> 'Ejecutar Notificaciones de Recordatorio via Email',
+    'LBL_UPDATE_TRACKER_SESSIONS' => 'Actualizar la tabla tracker_sessions',
 
-
-    'LBL_PATCHES_TITLE'     => 'Install Latest Patches',
-    'LBL_MODULE_TITLE'      => 'Install Language Packs',
-    'LBL_PATCH_1'           => 'If you would like to skip this step, click Next.',
-    'LBL_PATCH_TITLE'       => 'System Patch',
-    'LBL_PATCH_READY'       => 'The following patch(es) are ready to be installed:',
-	'LBL_SESSION_ERR_DESCRIPTION'		=> "SugarCRM relies upon PHP sessions to store important information while connected to this web server.  Your PHP installation does not have the Session information correctly configured.
-											<br><br>A common misconfiguration is that the <b>'session.save_path'</b> directive is not pointing to a valid directory.  <br>
-											<br> Please correct your <a target=_new href='http://us2.php.net/manual/en/ref.session.php'>PHP configuration</a> in the php.ini file located here below.",
-	'LBL_SESSION_ERR_TITLE'				=> 'PHP Sessions Configuration Error',
-	'LBL_SYSTEM_NAME'=>'System Name',
+	'LBL_PATCHES_TITLE'     => 'Instalar Los Últimos Parches',
+    'LBL_MODULE_TITLE'      => 'Descargar e Instalar Paquetes de Idioma',
+    'LBL_PATCH_1'           => 'Si deseas saltar este paso, haz clic en Siguiente.',
+    'LBL_PATCH_TITLE'       => 'Parche del Sistema',
+    'LBL_PATCH_READY'       => 'Los siguientes parches están listos para ser instalados:',
+    
+	'LBL_SESSION_ERR_DESCRIPTION'		=> "SugarCRM depende de las sesiones de PHP para almacenar información importante mientras que está conectado a tu servidor web. Tu instalación de PHP no tiene la información de Sesión correctamente configurada.
+											<br><br>Un error de configuración bastante común es que la directiva <b>'session.save_path'</b> no apunte a un directorio válido.  <br>
+											<br> Por favor, corrige tu <a target=_new href='http://us2.php.net/manual/en/ref.session.php'>configuración PHP</a> en el archivo php.ini localizado donde se indica a continuación.",
+	'LBL_SESSION_ERR_TITLE'				=> 'Error de Configuración de Sesiones PHP',
+	
+	'LBL_SYSTEM_NAME'=>'Nombre del Sistema',
     'LBL_COLLATION' => 'Collation Settings',
-	'LBL_REQUIRED_SYSTEM_NAME'=>'Provide a System Name for the Sugar instance.',
-	'LBL_PATCH_UPLOAD' => 'Select a patch file from your local computer',
-	'LBL_INCOMPATIBLE_PHP_VERSION' => 'Php version 5 or above is required.',
-	'LBL_MINIMUM_PHP_VERSION' => 'Minimum Php version required is 5.1.0. Recommended Php version is 5.2.x.',
-	'LBL_YOUR_PHP_VERSION' => '(Your current php version is ',
-	'LBL_RECOMMENDED_PHP_VERSION' =>' Recommended php version is 5.2.x)',
-	'LBL_BACKWARD_COMPATIBILITY_ON' => 'Php Backward Compatibility mode is turned on. Set zend.ze1_compatibility_mode to Off for proceeding further',
+	'LBL_REQUIRED_SYSTEM_NAME'=>'Introduce un Nombre de Sistema para la implementación de Sugar.',
+	'LBL_PATCH_UPLOAD' => 'Selecciona un archivo de parche de su equipo local',
+	'LBL_INCOMPATIBLE_PHP_VERSION' => 'Se requiere la versión de PHP 5 o superior.',
+	'LBL_MINIMUM_PHP_VERSION' => 'La versión mínima requerida de PHP es la 5.1.0. Se recomienda usar la versión de PHP 5.2.x.',
+	'LBL_YOUR_PHP_VERSION' => '(Tu versión actual de PHP es ',
+	'LBL_RECOMMENDED_PHP_VERSION' =>' La versión recomendada de PHP es la 5.2.x)',
+	'LBL_BACKWARD_COMPATIBILITY_ON' => 'El modo de compatibilidad hacia atrás de PHP está habilitado. Establece zend.ze1_compatibility_mode en Off antes de continuar',
 
+
+
+	
+	
     'advanced_password_new_account_email' => array(
-        'subject' => 'New account information',
+        'subject' => 'Información de la Nueva Cuenta',
         'description' => 'This template is used when the System Administrator sends a new password to a user.',
         'body' => '<div><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width="550" align=\"\&quot;\&quot;center\&quot;\&quot;\"><tbody><tr><td colspan=\"2\"><p>Here is your account username and temporary password:</p><p>Username : $contact_user_user_name </p><p>Password : $contact_user_user_hash </p><br><p>$config_site_url</p><br><p>After you log in using the above password, you may be required to reset the password to one of your own choice.</p>   </td>         </tr><tr><td colspan=\"2\"></td>         </tr> </tbody></table> </div>',
         'txt_body' =>
