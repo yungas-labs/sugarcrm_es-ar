@@ -141,9 +141,9 @@ $mod_strings = array (
 	'LBL_NEXT_WEEK' => 'Siguiente',
 	'LBL_PROJECTRESOURCES_SUBPANEL_TITLE' => 'Recursos del Proyecto',
 	'LBL_PROJECTTASK_SUBPANEL_TITLE' => 'Tareas del Proyecto',
-	'LBL_HOLIDAYS_SUBPANEL_TITLE' => 'Días festivos',
+	'LBL_HOLIDAYS_SUBPANEL_TITLE' => 'Días Feriados',
 	'LBL_PROJECT_INFORMATION' => 'Información del Proyecto',
-	'LBL_EDITLAYOUT' => 'Editar capa' /*for 508 compliance fix*/,
+	'LBL_EDITLAYOUT' => 'Editar Distribución' /*for 508 compliance fix*/,
 	'LBL_INSERTROWS' => 'Insertar Filas' /*for 508 compliance fix*/,
 	'LBL_PROJECT_INFORMATION' => 'Información del Proyecto',
 
