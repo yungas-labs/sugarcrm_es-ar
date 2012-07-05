@@ -43,6 +43,14 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * Contributor(s): ______________________________________..
  ********************************************************************************/
 
+/*********************************************************************************
+ * 
+ * Translation by Make IT Work Cooperative Limited
+ * Traducción hecha por Cooperativa de Trabajo Make IT Limitada 
+ * http://www.make-it-coop.com.ar/
+ * 
+ ********************************************************************************/
+ 
 $mod_strings = array (
   'LBL_STEP_1' => 'Paso 1: Seleccionar Módulo y Plantilla',
   'LBL_MAILMERGE_MODULE' => 'Seleccionar Módulo: ',
