@@ -34,18 +34,24 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * technical reasons, the Appropriate Legal Notices must display the words
  * "Powered by SugarCRM".
  ********************************************************************************/
-
+/*********************************************************************************
+ * 
+ * Translation by Make IT Work Cooperative Limited
+ * Traducción hecha por Cooperativa de Trabajo Make IT Limitada 
+ * http://www.make-it-coop.com.ar/
+ * 
+ ********************************************************************************/
 
 $mod_strings = array ( 
-	'LBL_MODULE_NAME'			=> 'Groups',
-	'LBL_GROUP_NAME'			=> 'Group Name:',
-	'LBL_DESCRIPTION'			=> 'Description:',
-	'LBL_TEAM'					=> 'Team:',
+	'LBL_MODULE_NAME'			=> 'Grupos',
+	'LBL_GROUP_NAME'			=> 'Nombre de Grupo:',
+	'LBL_DESCRIPTION'			=> 'Descripción:',
+	'LBL_TEAM'					=> 'Equipo:',
 	// ListView
-	'LBL_LIST_TITLE'			=> 'Groups',
+	'LBL_LIST_TITLE'			=> 'Grupos',
 	// Links
-	'LNK_ALL_GROUPS'			=> 'All Groups',
-	'LNK_NEW_GROUP'				=> 'Create Group',
-	'LNK_CONVERT_USER'			=> 'Convert User to Group', 
+	'LNK_ALL_GROUPS'			=> 'Todos los Grupos',
+	'LNK_NEW_GROUP'				=> 'Crear Grupo',
+	'LNK_CONVERT_USER'			=> 'Convertir Usuario a Grupo', 
 );
 ?>
