@@ -5,4 +5,10 @@ date-time	username	file									code
 07-03-2012	rafabode	en_us/modules/Users/language/en_us.lang.php			        500
 07-03-2012	elnomade	en_us/modules/Configurator/language/en_us.lang.php			347
 07-03-2012	elnomade	en_us/modules/Prospects/language/en_us.lang.php				153
-
+07-04-2012	dariopalminio	en_us/modules/Roles/language/en_us.lang.php				15
+07-04-2012	dariopalminio	en_us/modules/Releases/language/en_us.lang.php			22
+07-04-2012	dariopalminio	en_us/modules/Project/language/en_us.lang.php			104
+07-04-2012	dariopalminio	en_us/modules/ProjectTask/language/en_us.lang.php		78
+07-04-2012	dariopalminio	en_us/modules/ProspectLists/language/en_us.lang.php		48
+07-04-2012	dariopalminio	en_us/modules/Groups/language/en_us.lang.php			8
+07-04-2012	dariopalminio	en_us/modules/Contacts/language/en_us.lang.php			200
