@@ -15,3 +15,9 @@ date-time	username	file									code
 07-05-2012	dariopalminio	en_us/modules/MailMerge/language/en_us.lang.php			30
 07-05-2012	dariopalminio	en_us/modules/SavedSearch/language/en_us.lang.php			30
 07-05-2012	dariopalminio	en_us/modules/Contacts/language/en_us.lang.php			200
+05-07-2012	Sovietiko	en_us/modules/Accounts/language/en_us.lang.php			128
+05-07-2012	Sovietiko	en_us/modules/ACL/language/en_us.lang.php			15
+05-07-2012	Sovietiko	en_us/modules/ACLActions/language/en_us.lang.php			26
+05-07-2012	Sovietiko	en_us/modules/ACLRoles/language/en_us.lang.php			26
+
+
