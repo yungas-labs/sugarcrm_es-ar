@@ -34,17 +34,23 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * technical reasons, the Appropriate Legal Notices must display the words
  * "Powered by SugarCRM".
  ********************************************************************************/
-
+/*********************************************************************************
+ * 
+ * Translation by Make IT Work Cooperative Limited
+ * Traducción hecha por Cooperativa de Trabajo Make IT Limitada 
+ * http://www.make-it-coop.com.ar/
+ * 
+ ********************************************************************************/
 
 
 
 $mod_strings = array (
-  'LBL_FIELD_NAME' => 'Field',
-  'LBL_OLD_NAME' => 'Old Value',
-  'LBL_NEW_VALUE' => 'New Value',
-  'LBL_CREATED_BY' => 'Changed By',
-  'LBL_LIST_DATE' => 'Change Date',
-  'LBL_AUDITED_FIELDS' => 'Fields audited in this module: ',
-  'LBL_NO_AUDITED_FIELDS_TEXT' => 'There are no fields audited in this module',
-  'LBL_CHANGE_LOG' => 'Change Log',
+  'LBL_FIELD_NAME' => 'Campo',
+  'LBL_OLD_NAME' => 'Valor Viejo',
+  'LBL_NEW_VALUE' => 'Valor Nuevo',
+  'LBL_CREATED_BY' => 'Cambiado Por',
+  'LBL_LIST_DATE' => 'Fecha de Cambio',
+  'LBL_AUDITED_FIELDS' => 'Campos auditados en este módulo: ',
+  'LBL_NO_AUDITED_FIELDS_TEXT' => 'No hay campos auditados en este módulo',
+  'LBL_CHANGE_LOG' => 'Log de Cambio',
 );
