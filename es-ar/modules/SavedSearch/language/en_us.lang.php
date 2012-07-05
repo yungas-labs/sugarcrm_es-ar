@@ -43,26 +43,33 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * Contributor(s): ______________________________________..
  ********************************************************************************/
 
+/*********************************************************************************
+ * 
+ * Translation by Make IT Work Cooperative Limited
+ * Traducción hecha por Cooperativa de Trabajo Make IT Limitada 
+ * http://www.make-it-coop.com.ar/
+ * 
+ ********************************************************************************/
+ 
 $mod_strings = array (
-	'LBL_MODULE_TITLE' => 'My Saved Searches',
-	'LBL_MODULE_TITLE' => 'My Saved Searches',
-	'LBL_SEARCH_FORM_TITLE' => 'My Saved Searches : Search',
-	'LBL_LIST_FORM_TITLE' => 'My Saved Searches List', 
-	'LBL_DELETE_CONFIRM' => 'Are you sure you want to delete the selected Saved Search?',
-	'LBL_UPDATE_BUTTON_TITLE' => 'Update this Saved Search',
-	'LBL_DELETE_BUTTON_TITLE' => 'Delete this Saved Search',
-	'LBL_SAVE_BUTTON_TITLE' => 'Save the current search',
-	'LBL_LIST_NAME' => 'Name',
-	'LBL_LIST_MODULE' => 'Module',
-    'LBL_ORDER_BY_COLUMNS' => 'Order by column:',
-    'LBL_DIRECTION' => 'Direction:',
-    'LBL_SAVE_SEARCH_AS' => 'Save search as:',
-    'LBL_SAVE_SEARCH_AS_HELP' => 'This saves your view settings and any filters on the Advanced Search tab.',
-    'LBL_PREVIOUS_SAVED_SEARCH' => 'Previous Saved Searches:',
-    'LBL_PREVIOUS_SAVED_SEARCH_HELP' => 'Edit or Delete an existing Saved Search.',
-    'LBL_ASCENDING' => 'Ascending', 
-    'LBL_DESCENDING' => 'Descending',
-    'LBL_MODIFY_CURRENT_SEARCH'=> 'Modify current search',
+	'LBL_MODULE_TITLE' => 'Mis Búsquedas Guardadas',
+	'LBL_SEARCH_FORM_TITLE' => 'Mis Búsquedas Guardadas : Buscar',
+	'LBL_LIST_FORM_TITLE' => 'Mis Lista de Búsquedas Guardadas', 
+	'LBL_DELETE_CONFIRM' => 'Está seguro que desea borrar la búsqueda guardada seleccionada ?',
+	'LBL_UPDATE_BUTTON_TITLE' => 'Actualizar esta Búsqueda Guardada',
+	'LBL_DELETE_BUTTON_TITLE' => 'Borrar esta Búsqueda Guardada',
+	'LBL_SAVE_BUTTON_TITLE' => 'Guardar la Búsqueda Actual',
+	'LBL_LIST_NAME' => 'Nombre',
+	'LBL_LIST_MODULE' => 'Módulo',
+    'LBL_ORDER_BY_COLUMNS' => 'Ordenar por columna:',
+    'LBL_DIRECTION' => 'Dirección:',
+    'LBL_SAVE_SEARCH_AS' => 'Guardar Búsqueda como:',
+    'LBL_SAVE_SEARCH_AS_HELP' => 'Esto guarda tus configuración de vista y los filtros en la ficha Búsqueda Avanzada.',    
+    'LBL_PREVIOUS_SAVED_SEARCH' => 'Búsquedas Guardadas Previas:',
+    'LBL_PREVIOUS_SAVED_SEARCH_HELP' => 'Editar o Borrar una Búsqueda Guardada Existente.',
+    'LBL_ASCENDING' => 'Ascendente', 
+    'LBL_DESCENDING' => 'Descendente',
+    'LBL_MODIFY_CURRENT_SEARCH'=> 'Modificar Búsqueda Actual',
 
 );
 
