@@ -13,7 +13,7 @@ date-time	username	file									code
 07-04-2012	dariopalminio	en_us/modules/Groups/language/en_us.lang.php			8
 07-05-2012	dariopalminio	en_us/modules/Audit/language/en_us.lang.php				8
 07-05-2012	dariopalminio	en_us/modules/MailMerge/language/en_us.lang.php			30
-07-05-2012	dariopalminio	en_us/modules/SavedSearch/language/en_us.lang.php		18
+07-05-2012	dariopalminio	en_us/modules/SavedSearch/language/en_us.lang.php		20
 07-05-2012	dariopalminio	en_us/modules/Contacts/language/en_us.lang.php			200
 07-06-2012   gustavospessot en_us/include/SugarObjects/implements/team_security/language/en_us.lang.php          	 5
 07-06-2012   gustavospessot en_us/include/SugarObjects/templates/company/language/application/en_us.lang.php		19
