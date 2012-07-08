@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Please add the following information each time you start a file translation:
 
 
@@ -21,3 +22,29 @@ date-time	username	file									code
 05-07-2012	Sovietiko	en_us/modules/ACLRoles/language/en_us.lang.php			26
 
 
+=======
+Please add the following information each time you start a file translation:
+
+
+date-time	username	file									code
+07-03-2012	rafabode	en_us/modules/Users/language/en_us.lang.php			        500
+07-03-2012	elnomade	en_us/modules/Configurator/language/en_us.lang.php			347
+07-03-2012	elnomade	en_us/modules/Prospects/language/en_us.lang.php				153
+07-04-2012	dariopalminio	en_us/modules/Roles/language/en_us.lang.php				15
+07-04-2012	dariopalminio	en_us/modules/Releases/language/en_us.lang.php			22
+07-04-2012	dariopalminio	en_us/modules/Project/language/en_us.lang.php			104
+07-04-2012	dariopalminio	en_us/modules/ProjectTask/language/en_us.lang.php		78
+07-04-2012	dariopalminio	en_us/modules/ProspectLists/language/en_us.lang.php		48
+07-04-2012	dariopalminio	en_us/modules/Groups/language/en_us.lang.php			8
+07-05-2012	dariopalminio	en_us/modules/Audit/language/en_us.lang.php				8
+07-05-2012	dariopalminio	en_us/modules/MailMerge/language/en_us.lang.php			30
+07-05-2012	dariopalminio	en_us/modules/SavedSearch/language/en_us.lang.php			30
+07-05-2012	dariopalminio	en_us/modules/Contacts/language/en_us.lang.php			200
+07-06-2012   gustavospessot en_us/include/SugarObjects/implements/team_security/language/en_us.lang.php          	 5
+07-06-2012   gustavospessot en_us/include/SugarObjects/templates/company/language/application/en_us.lang.php		19
+07-06-2012   gustavospessot en_us/include/SugarObjects/templates/basic/language/en_us.lang.php                         	17
+07-06-2012   gustavospessot en_us/include/SugarObjects/implements/assignable/language/en_us.lang.php                   5
+07-06-2012   gustavospessot en_us/include/SugarObjects/templates/sale/language/application/en_us.lang.php            	11
+07-06-2012   gustavospessot en_us/include/SugarObjects/templates/issue/language/en_us.lang.php                            24
+07-06-2012   gustavospessot en_us/include/SugarObjects/templates/file/language/application/en_us.lang.php               28
+>>>>>>> c00e06f06ec1a121efe63a59f0076040d591c2f3
