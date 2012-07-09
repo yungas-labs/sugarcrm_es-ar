@@ -27,6 +27,11 @@ date-time	username	file									code
 07-07-2012	Sovietiko	/es-ar/modules/ACL/language/en_us.lang.php			15
 07-07-2012	Sovietiko	/es-ar/modules/ACLActions/language/en_us.lang.php			26
 07-07-2012	Sovietiko	/es-ar/modules/ACLRoles/language/en_us.lang.php			26
+07-08-2012	gustavospessot	/es-ar/include/SugarObjects/templates/sale/language/en_us.lang.php	                         90
+07-08-2012	gustavospessot	/es-ar/include/SugarObjects/templates/issue/language/application/en_us.lang.php	         35
+07-08-2012	gustavospessot	/es-ar/include/SugarObjects/templates/file/language/en_us.lang.php	                             65
+07-08-2012	gustavospessot	/es-ar/include/SugarObjects/templates/company/language/en_us.lang.php	                     94
+07-09-2012	gustavospessot	/es-ar/include/SugarObjects/templates/person/language/en_us.lang.php	                     51
 
 Unassigned files:
 -----------------
@@ -79,13 +84,4 @@ date-time	username	file	code
 ##-##-2012	none	/es-ar/modules/UpgradeWizard/language/en_us.lang.php	0
 ##-##-2012	none	/es-ar/modules/Versions/language/en_us.lang.php	0
 ##-##-2012	none	/es-ar/install/language/en_us.lang.php	0
-##-##-2012	none	/es-ar/include/language/en_us.lang.php	0
-##-##-2012	none	/es-ar/include/SugarObjects/templates/company/language/en_us.lang.php	0
-##-##-2012	none	/es-ar/include/SugarObjects/templates/file/language/en_us.lang.php	0
-##-##-2012	none	/es-ar/include/SugarObjects/templates/issue/language/application/language/en_us.lang.php	0
-##-##-2012	none	/es-ar/include/SugarObjects/templates/person/language/en_us.lang.php	0
-##-##-2012	none	/es-ar/include/SugarObjects/templates/person/language/application/language/en_us.lang.php	0
-##-##-2012	none	/es-ar/include/SugarObjects/templates/sale/language/en_us.lang.php	0
-
-
-
+##-##-2012	none	/es-ar/include/language/en_us.lang.php	2968
