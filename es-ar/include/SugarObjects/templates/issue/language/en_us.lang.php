@@ -61,7 +61,7 @@ $mod_strings = array (
   'LBL_DATE_MODIFIED'=>'Fecha de Modificación:',
   'LBL_MODIFIED_BY' => 'Última Modificación por:',
   'LBL_ASSIGNED_USER' => 'Usuario Asignado:',
-  'LBL_SYSTEM_ID' =>'Sistema Id:',
+  'LBL_SYSTEM_ID' =>'Id del Sistema:',
   'LBL_TYPE'=>'Tipo:',
   'LBL_SUBJECT' => 'Tema:',
   

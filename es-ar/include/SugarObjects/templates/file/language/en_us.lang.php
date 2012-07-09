@@ -67,7 +67,7 @@ $mod_strings = array (
 	'LBL_CHANGE_LOG'=> 'Registro de Modificación',
 	'LBL_ACTIVE_DATE'=> 'Fecha de Publicación',
 	'LBL_EXPIRATION_DATE' => 'Fecha de Expiración',
-	'LBL_FILE_EXTENSION'  => 'Extensión de Archivo',
+	'LBL_FILE_EXTENSION'  => 'Extensión del Archivo',
 
 	'LBL_CAT_OR_SUBCAT_UNSPEC'=>'Sin Espcificar',
 	//quick search
