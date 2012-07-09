@@ -47,26 +47,26 @@ strtolower($object_name).'_category_dom' =>
     array (
     '' => '',
     'Marketing' => 'Marketing',
-    'Knowledege Base' => 'Knowledge Base',
-    'Sales' => 'Sales',
+    'Knowledege Base' => 'Base de Conocimientos',
+    'Sales' => 'Ventas',
   ),
 
     strtolower($object_name).'_subcategory_dom' =>
     array (
     '' => '',
-    'Marketing Collateral' => 'Marketing Collateral',
-    'Product Brochures' => 'Product Brochures',
+    'Marketing Collateral' => 'Marketing Colateral',
+    'Product Brochures' => 'Folletos del Producto',
     'FAQ' => 'FAQ',
   ),
 
     strtolower($object_name).'_status_dom' =>
     array (
-    'Active' => 'Active',
-    'Draft' => 'Draft',
+    'Active' => 'Activo',
+    'Draft' => 'Borrador',
     'FAQ' => 'FAQ',
-    'Expired' => 'Expired',
-    'Under Review' => 'Under Review',
-    'Pending' => 'Pending',
+    'Expired' => 'Expirado',
+    'Under Review' => 'Bajo Revisión',
+    'Pending' => 'En Espera',
   ),
   );
 ?>

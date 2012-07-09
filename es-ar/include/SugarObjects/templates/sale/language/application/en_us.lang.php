@@ -48,8 +48,8 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
   strtolower($object_name).'_type_dom' =>
   array (
     '' => '',
-    'Existing Business' => 'Existing Business',
-    'New Business' => 'New Business',
+    'Existing Business' => 'Empresas Existentes',
+    'New Business' => 'Nuevas Empresas',
   ),
 
   );
