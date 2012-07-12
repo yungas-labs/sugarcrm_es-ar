@@ -46,16 +46,16 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
   strtolower($object_name).'_type_dom' =>
   array (
     '' => '',
-    'Analyst' => 'Analyst',
-    'Competitor' => 'Competitor',
-    'Customer' => 'Customer',
-    'Integrator' => 'Integrator',
-    'Investor' => 'Investor',
-    'Partner' => 'Partner',
-    'Press' => 'Press',
-    'Prospect' => 'Prospect',
-    'Reseller' => 'Reseller',
-    'Other' => 'Other',
+    'Analyst' => 'Analista',
+    'Competitor' => 'Competidor',
+    'Customer' => 'Cliente',
+    'Integrator' => 'Integrante',
+    'Investor' => 'Inversor',
+    'Partner' => 'Asociado',
+    'Press' => 'Prensa',
+    'Prospect' => 'Comprador Eventual',
+    'Reseller' => 'Distribuidor',
+    'Other' => 'Otro',
   ),
 
   );

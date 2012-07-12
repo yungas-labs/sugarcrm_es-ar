@@ -45,33 +45,33 @@ $object_name = strtolower($object_name);
 
   $object_name.'_type_dom' =>
   array (
-  	'Administration' => 'Administration',
-    'Product' => 'Product',
-    'User' => 'User',
+  	'Administration' => 'Administración',
+    'Product' => 'Producto',
+    'User' => 'Usuario',
   ),
    $object_name.'_status_dom' =>
   array (
-    'New' => 'New',
-    'Assigned' => 'Assigned',
-    'Closed' => 'Closed',
-    'Pending Input' => 'Pending Input',
-    'Rejected' => 'Rejected',
-    'Duplicate' => 'Duplicate',
+    'New' => 'Nuevo',
+    'Assigned' => 'Asignado',
+    'Closed' => 'Cerrado',
+    'Pending Input' => 'Entrada en Espera',
+    'Rejected' => 'Rechazado',
+    'Duplicate' => 'Duplicado',
   ),
   $object_name.'_priority_dom' =>
   array (
-    'P1' => 'High',
-    'P2' => 'Medium',
-    'P3' => 'Low',
+    'P1' => 'Alta',
+    'P2' => 'Media',
+    'P3' => 'Baja',
   ),
   $object_name.'_resolution_dom' =>
   array (
   	'' => '',
-  	'Accepted' => 'Accepted',
-    'Duplicate' => 'Duplicate',
-    'Closed' => 'Closed',
-    'Out of Date' => 'Out of Date',
-    'Invalid' => 'Invalid',
+  	'Accepted' => 'Aceptado',
+    'Duplicate' => 'Duplicado',
+    'Closed' => 'Cerrado',
+    'Out of Date' => 'Fuera de Fecha',
+    'Invalid' => 'Inválido',
   ),
   );
 ?>

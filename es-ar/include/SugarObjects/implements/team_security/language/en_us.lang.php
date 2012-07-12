@@ -35,6 +35,6 @@
  ********************************************************************************/
 
 $mod_strings = array(
-'LBL_TEAM'=>'Teams',
-'LBL_TEAMS'=>'Teams',
+'LBL_TEAM'=>'Equipo',
+'LBL_TEAMS'=>'Equipos',
 );
