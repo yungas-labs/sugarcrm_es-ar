@@ -32,13 +32,13 @@ date-time	username	file									code
 07-08-2012	gustavospessot	/es-ar/include/SugarObjects/templates/file/language/en_us.lang.php	                             65
 07-08-2012	gustavospessot	/es-ar/include/SugarObjects/templates/company/language/en_us.lang.php	                     94
 07-09-2012	gustavospessot	/es-ar/include/SugarObjects/templates/person/language/en_us.lang.php	                     51
+07-12-2012	Sovietiko  /es-ar/modules/Administration/language/en_us.lang.php	1075
+07-12-2012	Sovietiko  /es-ar/modules/Bugs/language/en_us.lang.php	69
 
 Unassigned files:
 -----------------
 date-time	username	file	code
 ##-##-2012	none	/es-ar/modules/Activities/language/en_us.lang.php	0
-##-##-2012	none	/es-ar/modules/Administration/language/en_us.lang.php	0
-##-##-2012	none	/es-ar/modules/Bugs/language/en_us.lang.php	0
 ##-##-2012	none	/es-ar/modules/Calendar/language/en_us.lang.php	0
 ##-##-2012	none	/es-ar/modules/Calls/language/en_us.lang.php	0
 ##-##-2012	none	/es-ar/modules/CampaignLog/language/en_us.lang.php	0
