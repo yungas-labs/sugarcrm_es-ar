@@ -34,6 +34,8 @@ date-time	username	file									code
 07-09-2012	gustavospessot	/es-ar/include/SugarObjects/templates/person/language/en_us.lang.php	                     51
 07-12-2012	Sovietiko  /es-ar/modules/Administration/language/en_us.lang.php	1075
 07-12-2012	Sovietiko  /es-ar/modules/Bugs/language/en_us.lang.php	69
+07-13-2012	gustavospessot	/es-ar/include/language/en_us.lang.php	                                   2968      (voy a tomar solo algunas líneas)
+
 
 Unassigned files:
 -----------------
