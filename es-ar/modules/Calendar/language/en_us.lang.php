@@ -108,11 +108,11 @@ $mod_strings = array (
 	'LBL_INFO_START_DT' => 'Start Date',
 	'LBL_INFO_DUE_DT' => 'Due Date',
 	'LBL_INFO_DURATION' => 'Duration',
-	'LBL_INFO_NAME' => 'Subject',
+	'LBL_INFO_NAME' => 'Título',
 	'LBL_INFO_RELATED_TO' => 'Related to',
 
 	'LBL_NO_USER' => 'No match for field: Assigned to',
-	'LBL_SUBJECT' => 'Subject',
+	'LBL_SUBJECT' => 'Título',
 	'LBL_DURATION' => 'Duration',
 	'LBL_STATUS' => 'Status',
 	'LBL_DATE_TIME' => 'Date and Time',

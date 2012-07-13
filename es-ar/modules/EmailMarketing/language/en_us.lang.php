@@ -67,7 +67,7 @@ $mod_strings = array (
   'LBL_MESSAGE_FOR_ID'	=> 'Message For',
 
   'LBL_FROM_NAME' => 'From Name: ',
-  'LBL_FROM_ADDR' => 'From Email Address: ',
+  'LBL_FROM_ADDR' => 'From Dirección de Correo: ',
   'LBL_DATE_START' => 'Start Date',
   'LBL_TIME_START' => 'Start Time',
   'LBL_START_DATE_TIME' => 'Start Date & Time: ',

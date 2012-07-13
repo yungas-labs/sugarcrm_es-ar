@@ -107,7 +107,7 @@ $mod_strings = array (
   'LBL_TITLE' => 'Title:',
   'LBL_DEPARTMENT' => 'Department:',
   'LBL_BIRTHDATE' => 'Birthdate:',
-  'LBL_EMAIL_ADDRESS' => 'Email Address:',
+  'LBL_EMAIL_ADDRESS' => 'Dirección de Correo:',
   'LBL_OTHER_EMAIL_ADDRESS' => 'Other Email:',
   'LBL_ANY_EMAIL' => 'Any Email:',
   'LBL_ASSISTANT' => 'Assistant:',
@@ -194,6 +194,6 @@ $mod_strings = array (
   'LBL_EXPORT_ASSIGNED_USER_ID' => 'Assigned User ID',
   'LBL_EXPORT_MODIFIED_USER_ID' => 'Modified By ID',
   'LBL_EXPORT_CREATED_BY' => 'Created By ID',
-  'LBL_EXPORT_EMAIL2'=>'Other Email Address',
+  'LBL_EXPORT_EMAIL2'=>'Other Dirección de Correo',
 );
 ?>

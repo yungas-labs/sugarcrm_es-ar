@@ -252,8 +252,8 @@ $mod_strings = array (
     'PDF_TITLE' => 'Title',
     'PDF_TITLE_INFO' => 'The Title appears in the document properties.',
 
-    'PDF_SUBJECT' => 'Subject',
-    'PDF_SUBJECT_INFO' => 'The Subject appears in the document properties.',
+    'PDF_SUBJECT' => 'Título',
+    'PDF_SUBJECT_INFO' => 'The Título appears in the document properties.',
 
     'PDF_KEYWORDS' => 'Keyword(s)',
     'PDF_KEYWORDS_INFO' => 'Associate Keywords with the document, generally in the form "keyword1 keyword2..."',

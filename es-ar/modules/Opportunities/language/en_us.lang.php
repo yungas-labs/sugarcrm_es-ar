@@ -117,7 +117,7 @@ $mod_strings = array (
   'NTC_REMOVE_OPP_CONFIRMATION' => 'Are you sure you want to remove this contact from the opportunity?',
 	'OPPORTUNITY_REMOVE_PROJECT_CONFIRM' => 'Are you sure you want to remove this opportunity from the project?',
 	'LBL_DEFAULT_SUBPANEL_TITLE' => 'Opportunities',
-	'LBL_ACTIVITIES_SUBPANEL_TITLE'=>'Activities',
+	'LBL_ACTIVITIES_SUBPANEL_TITLE'=>'Actividades',
 	'LBL_HISTORY_SUBPANEL_TITLE'=>'History',
     'LBL_RAW_AMOUNT'=>'Raw Amount',
 	
