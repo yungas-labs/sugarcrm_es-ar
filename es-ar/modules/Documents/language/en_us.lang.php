@@ -129,7 +129,7 @@ $mod_strings = array (
 	'LBL_LATEST_REVISION_ID' => 'Latest revision id',
 	'LBL_SELECTED_REVISION_FILENAME' => 'Selected revision filename',
 	'LBL_FILE_URL' => 'File url',
-    'LBL_REVISIONS_PANEL' => 'Revision Details',
+    'LBL_REVISIONS_PANEL' => 'Revision Detalles',
     'LBL_REVISIONS_SUBPANEL' => 'Revisions',
 
 	//document search form.
@@ -181,7 +181,7 @@ $mod_strings = array (
 
     // Links around the world
     'LBL_ACCOUNTS_SUBPANEL_TITLE' => 'Accounts',
-    'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contacts',
+    'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contactos',
     'LBL_OPPORTUNITIES_SUBPANEL_TITLE' => 'Opportunities',
     'LBL_CASES_SUBPANEL_TITLE' => 'Cases',
     'LBL_BUGS_SUBPANEL_TITLE' => 'Bugs',

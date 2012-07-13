@@ -49,7 +49,7 @@ $mod_strings = array (
 'LBL_ADD_FIELDS'=>'Add Custom Fields',
 'LBL_DISPLAY_HTML'=>'Display HTML Code',
 'LBL_SELECT_FILE'=> 'Select File',
-'LBL_SAVE_LAYOUT'=> 'Save Layout',
+'LBL_SAVE_LAYOUT'=> 'Guardar Layout',
 'LBL_SELECT_A_SUBPANEL' => 'Select a Subpanel',
 'LBL_SELECT_SUBPANEL' => 'Select Subpanel',
 'LBL_MODULE_TITLE' => 'Studio',
@@ -59,7 +59,7 @@ $mod_strings = array (
 'LBL_SUGAR_BIN_STAGE' => 'Sugar Bin (click items to add to staging area)',
 'LBL_VIEW_SUGAR_FIELDS' => 'View Sugar Fields',
 'LBL_VIEW_SUGAR_BIN' => 'View Sugar Bin',
-'LBL_FAILED_TO_SAVE' => 'Failed To Save',
+'LBL_FAILED_TO_SAVE' => 'Failed To Guardar',
 'LBL_CONFIRM_UNSAVE' => 'Any changes will go unsaved. Are you sure you would like to continue?',
 'LBL_PUBLISHING' => 'Publishing ...',
 'LBL_PUBLISHED' => 'Published',
@@ -132,9 +132,9 @@ $mod_strings = array (
 'LBL_DD_ALL'=>'All',
 
 //BUTTONS
-'LBL_BTN_SAVE'=>'Save',
-'LBL_BTN_CANCEL'=>'Cancel',
-'LBL_BTN_SAVEPUBLISH'=>'Save & Deploy',
+'LBL_BTN_SAVE'=>'Guardar',
+'LBL_BTN_CANCEL'=>'Cancelar',
+'LBL_BTN_SAVEPUBLISH'=>'Guardar & Deploy',
 'LBL_BTN_HISTORY'=>'History',
 'LBL_BTN_NEXT'=>'Next',
 'LBL_BTN_BACK'=>'Back',
@@ -156,7 +156,7 @@ $mod_strings = array (
 'LBL_RENAME_TAB_WELCOME'=>'Click on any tab\'s Display Value in the table below to rename the tab.',
 'LBL_DELETE_MODULE'=>'Remove&nbsp;module<br />from&nbsp;filter',
 'LBL_DISPLAY_OTHER_TAB_HELP' => 'Select to display the "Other" tab in the navigation bar.  By default, the "Other" tab displays any modules not already included in other groups.',
-'LBL_TAB_GROUP_LANGUAGE_HELP' => 'Select an available language, edit the Group labels and click Save & Deploy to apply the labels in the selected language.',
+'LBL_TAB_GROUP_LANGUAGE_HELP' => 'Select an available language, edit the Group labels and click Guardar & Deploy to apply the labels in the selected language.',
 'LBL_ADD_GROUP'=>'Add Filter',
 'LBL_NEW_GROUP'=>'New Group',
 'LBL_RENAME_TABS'=>'Rename Modules',
@@ -186,7 +186,7 @@ $mod_strings = array (
 'ERROR_SP_UPLOADED'=>'Please ensure that you are uploading a css style sheet.',
 'LBL_SP_PREVIEW'=>'Here is a preview of what your style sheet will look like',
 
-	'LBL_SAVE' => 'Save' /*for 508 compliance fix*/,
+	'LBL_SAVE' => 'Guardar' /*for 508 compliance fix*/,
 	'LBL_UNDO' => 'Undo' /*for 508 compliance fix*/,
 	'LBL_REDO' => 'Redo' /*for 508 compliance fix*/,
 	'LBL_INLINE' => 'Inline' /*for 508 compliance fix*/,
@@ -202,7 +202,7 @@ $mod_strings = array (
 'LBL_LANGUAGE_TOOLTIP' => 'Select the language to edit.',
 'LBL_SINGULAR' => 'Singular Label',
 'LBL_PLURAL' => 'Plural Label',
-'LBL_RENAME_MOD_SAVE_HELP' => 'Click <b>Save</b> to apply the changes.'
+'LBL_RENAME_MOD_SAVE_HELP' => 'Click <b>Guardar</b> to apply the changes.'
 
 );
 ?>

@@ -49,11 +49,11 @@ $mod_strings = array (
 		  'ShowLastModifiedRecords' => 'Last 10 Modified Records',
 		  'ShowTopUser' => 'Top User',
 		  'ShowMyModuleUsage' => 'My Module Usage',
-		  'ShowMyWeeklyActivities' => 'My Weekly Activity',
+		  'ShowMyWeeklyActivities' => 'My Weekly Actividad',
 		  'ShowTop3ModulesUsed' => 'My Top 3 Modules Used',
 		  'ShowLoggedInUserCount' => 'Active User Count',
-		  'ShowMyCumulativeLoggedInTime' => 'My Cumulative Login Time (This Week)',
-		  'ShowUsersCumulativeLoggedInTime' => 'Users Cumulative Login Time (This Week)',
+		  'ShowMyCumulativeLoggedInTime' => 'My Cumulative Login Time (This Semana)',
+		  'ShowUsersCumulativeLoggedInTime' => 'Users Cumulative Login Time (This Semana)',
 		  
 		  //Column header mapping
 		  'action' => 'Action',

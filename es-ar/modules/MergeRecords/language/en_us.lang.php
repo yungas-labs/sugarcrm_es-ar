@@ -63,9 +63,9 @@ $mod_strings = array (
   'LBL_PERFORM_MERGE_BUTTON_KEY' => 'P',
   'LBL_PERFORM_MERGE_BUTTON_LABEL' => 'Perform Merge',
 
-  'LBL_SAVE_MERGED_RECORD_BUTTON_TITLE' => 'Save Merge[Ctrl+S]',
+  'LBL_SAVE_MERGED_RECORD_BUTTON_TITLE' => 'Guardar Merge[Ctrl+S]',
   'LBL_SAVE_MERGED_RECORD_BUTTON_KEY' => 'S',
-  'LBL_SAVE_MERGED_RECORD_BUTTON_LABEL' => 'Save Merge',
+  'LBL_SAVE_MERGED_RECORD_BUTTON_LABEL' => 'Guardar Merge',
 
   'LBL_STEP2_FORM_TITLE' => 'Records Found To Merge With',
   'LBL_SELECT_ERROR'=>'You must make a selection before you can proceed.',

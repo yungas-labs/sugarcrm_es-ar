@@ -88,7 +88,7 @@ $mod_strings = array (
     'LBL_RESET_BUTTON_TITLE' => 'Reset',
 	'LBL_RESULT_LIST' => 'Data List',
     'LBL_RUN_WIZARD' => 'Run Wizard',
-    'LBL_SAVE' => 'Save',
+    'LBL_SAVE' => 'Guardar',
 	'LBL_SEARCHING_BUTTON_LABEL' => 'Searching...',
     'LBL_SHOW_IN_LISTVIEW' => 'Show In Merge Listview',
     'LBL_SMART_COPY' => 'Smart Copy',
@@ -116,7 +116,7 @@ $mod_strings = array (
     'ERROR_NO_FIELDS_MAPPED' => 'Error: You must map at least one Connector field to a module field for each module entry.',
     'ERROR_NO_DISPLAYABLE_MAPPED_FIELDS' => 'Error: There are no module fields that have been mapped for display in the results.  Please contact the system administrator.',
 	'LBL_INFO_INLINE' => 'Info' /*for 508 compliance fix*/,
-	'LBL_CLOSE' => 'Close' /*for 508 compliance fix*/,
+	'LBL_CLOSE' => 'Cerrar' /*for 508 compliance fix*/,
 );
 
 ?>

@@ -94,8 +94,8 @@ $mod_strings = array (
 
   // Various strings used throughout the external account modules
   'LBL_MEET_NOW_BUTTON' => 'Meet Now',
-  'LBL_VIEW_LOTUS_LIVE_MEETINGS' => 'View Upcoming LotusLive&trade; Meetings',
-  'LBL_TITLE_LOTUS_LIVE_MEETINGS' => 'Upcoming LotusLive&trade; Meetings',
+  'LBL_VIEW_LOTUS_LIVE_MEETINGS' => 'View Upcoming LotusLive&trade; Reuniones',
+  'LBL_TITLE_LOTUS_LIVE_MEETINGS' => 'Upcoming LotusLive&trade; Reuniones',
   'LBL_VIEW_LOTUS_LIVE_DOCUMENTS' => 'View LotusLive&trade; Files',
   'LBL_TITLE_LOTUS_LIVE_DOCUMENTS' => 'LotusLive&trade; Files',
   'LBL_REAUTHENTICATE_LABEL' => 'Reauthenticate',

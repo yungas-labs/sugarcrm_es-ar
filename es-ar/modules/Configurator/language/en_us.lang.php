@@ -297,7 +297,7 @@ $mod_strings = array (
     'PDF_UNIT' => 'Unit',
     'PDF_UNIT_INFO' => 'document unit of measure',
 	'PDF_GD_WARNING'=>'You do not have the GD library installed for PHP. Without the GD library installed, only JPEG logos can be displayed in PDF documents.',
-    'ERR_EZPDF_DISABLE'=>'Warning : The EZPDF class is disabled from the config table and it set as the PDF class. Please "Save" this form to set TCPDF as the PDF Class and return in a stable state.',
+    'ERR_EZPDF_DISABLE'=>'Warning : The EZPDF class is disabled from the config table and it set as the PDF class. Please "Guardar" this form to set TCPDF as the PDF Class and return in a stable state.',
     'LBL_IMG_RESIZED'=>"(resized for display)",
 
 

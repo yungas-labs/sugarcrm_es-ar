@@ -58,12 +58,12 @@ $mod_strings = array (
 	'LBL_CONTACT_CASE_TITLE'			=> 'Contact-Case:',
 	'LBL_CONTACT_NAME'					=> 'Contacto Name:',
 	'LBL_CONTACT_ROLE'					=> 'Role:',
-	'LBL_CONTACTS_SUBPANEL_TITLE'		=> 'Contacts',
+	'LBL_CONTACTS_SUBPANEL_TITLE'		=> 'Contactos',
 	'LBL_DEFAULT_SUBPANEL_TITLE'		=> 'Cases',
 	'LBL_DESCRIPTION'					=> 'Description:',
 	'LBL_FILENANE_ATTACHMENT' 			=> 'File Attachment',	
 	'LBL_HISTORY_SUBPANEL_TITLE'		=> 'History',
-	'LBL_INVITEE'						=> 'Contacts',
+	'LBL_INVITEE'						=> 'Contactos',
 	'LBL_MEMBER_OF'						=> 'Account',
 	'LBL_MODULE_NAME'					=> 'Cases',
 	'LBL_MODULE_TITLE'					=> 'Cases: Home',
@@ -80,7 +80,7 @@ $mod_strings = array (
 	'LBL_LIST_ASSIGNED_TO_NAME' 		=> 'Assigned User',
 	'LBL_LIST_ACCOUNT_NAME'				=> 'Account Name',
 	'LBL_LIST_ASSIGNED'					=> 'Assigned To',
-	'LBL_LIST_CLOSE'					=> 'Close',
+	'LBL_LIST_CLOSE'					=> 'Cerrar',
 	'LBL_LIST_FORM_TITLE'				=> 'Case List',
 	'LBL_LIST_LAST_MODIFIED'			=> 'Last Modified',
 	'LBL_LIST_MY_CASES'					=> 'My Open Cases',
@@ -130,7 +130,7 @@ $mod_strings = array (
     'LBL_EXPORT_TEAM_COUNT' => 'Team Count',
 
     // SNIP
-	'LBL_CONTACT_HISTORY_SUBPANEL_TITLE' => 'Related Contacts\' Correos',
+	'LBL_CONTACT_HISTORY_SUBPANEL_TITLE' => 'Related Contactos\' Correos',
 );
 
 ?>

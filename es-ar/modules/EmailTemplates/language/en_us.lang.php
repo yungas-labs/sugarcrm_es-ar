@@ -49,7 +49,7 @@ $mod_strings = array (
 	'LBL_ADD_FILE'				=> 'Add a file',
 	'LBL_ATTACHMENTS'			=> 'Attachments',
 	'LBL_BODY'					=> 'Body:',
-	'LBL_CLOSE'					=> 'Close:',
+	'LBL_CLOSE'					=> 'Cerrar:',
 	'LBL_COLON'					=> ':',
 	'LBL_DESCRIPTION'			=> 'Description:',
 	'LBL_EDIT_ALT_TEXT'			=> 'Edit Plain Text',
@@ -90,7 +90,7 @@ $mod_strings = array (
 	'LNK_NEW_EMAIL'				=> 'Archive Email',
 	'LNK_NEW_SEND_EMAIL'		=> 'Compose Email',
 	'LNK_SENT_EMAIL_LIST'		=> 'Correos Enviados',
-	'LNK_VIEW_CALENDAR'			=> 'Today',
+	'LNK_VIEW_CALENDAR'			=> 'Hoy',
 	// for Inbox
 	'LBL_NEW'					=> 'New',
 	'LNK_CHECK_MY_INBOX'		=> 'Check My Mail',

@@ -43,17 +43,17 @@ $mod_strings = array(
 	'LBL_POWERED_BY_SUGAR' => 'Powered By SugarCRM' /*for 508 compliance fix*/,
 'help'=>array(
 	'package'=>array(
-			'create'=>'Provide a <b>Name</b> for the package.  The name you enter must be alphanumeric and contain no spaces. (Example: HR_Management)<br/><br/> You can provide <b>Author</b> and <b>Description</b> information for package. <br/><br/>Click <b>Save</b> to create the package.',
+			'create'=>'Provide a <b>Name</b> for the package.  The name you enter must be alphanumeric and contain no spaces. (Example: HR_Management)<br/><br/> You can provide <b>Author</b> and <b>Description</b> information for package. <br/><br/>Click <b>Guardar</b> to create the package.',
 			'modify'=>'The properties and possible actions for the <b>Package</b> appear here.<br><br>You can modify the <b>Name</b>, <b>Author</b> and <b>Description</b> of the package, as well as view and customize all of the modules contained within the package.<br><br>Click <b>New Module</b> to create a module for the package.<br><br>If the package contains at least one module, you can <b>Publish</b> and <b>Deploy</b> the package, as well as <b>Export</b> the customizations made in the package.',
 			'name'=>'This is the <b>Name</b> of the current package. <br/><br/>The name you enter must be alphanumeric, start with a letter and contain no spaces. (Example: HR_Management)',
 			'author'=>'This is the <b>Author</b> that is displayed during installation as the name of the entity that created the package.<br><br>The Author could be either an individual or a company.',
 			'description'=>'This is the <b>Description</b> of the package that is displayed during installation.',
 			'publishbtn'=>'Click <b>Publish</b> to save all entered data and to create a .zip file that is an installable version of the package.<br><br>Use <b>Module Loader</b> to upload the .zip file and install the package.',
 			'deploybtn'=>'Click <b>Deploy</b> to save all entered data and to install the package, including all modules, in the current instance.',
-			'duplicatebtn'=>'Click <b>Duplicate</b> to copy the contents of the package into a new package and to display the new package. <br/><br/>For the new package, a new name will be generated automatically by appending a number to the end of the name of the package used to create the new one. You can rename the new package by entering a new <b>Name</b> and clicking <b>Save</b>.',
+			'duplicatebtn'=>'Click <b>Duplicate</b> to copy the contents of the package into a new package and to display the new package. <br/><br/>For the new package, a new name will be generated automatically by appending a number to the end of the name of the package used to create the new one. You can rename the new package by entering a new <b>Name</b> and clicking <b>Guardar</b>.',
 			'exportbtn'=>'Click <b>Export</b> to create a .zip file containing the customizations made in the package.<br><br> The generated file is not an installable version of the package.<br><br>Use <b>Module Loader</b> to import the .zip file and to have the package, including customizations, appear in Module Builder.',
 			'deletebtn'=>'Click <b>Delete</b> to delete this package and all files related to this package.',
-			'savebtn'=>'Click <b>Save</b> to save all entered data related to the package.',
+			'savebtn'=>'Click <b>Guardar</b> to save all entered data related to the package.',
 			'existing_module'=>'Click the <b>Module</b> icon to edit the properties and customize the fields, relationships and layouts associated with the module.',
 			'new_module'=>'Click <b>New Module</b> to create a new module for this package.',
 			'key'=>'This 5-letter, alphanumeric <b>Key</b> will be used to prefix all directories, class names and database tables for all of the modules in the current package.<br><br>The key is used in an effort to achieve table name uniqueness.',
@@ -81,11 +81,11 @@ $mod_strings = array(
 		'deletebtn'=>'Click <b>Delete</b> to delete this module.',
 		'name'=>'This is the <b>Name</b> of the current module.<br/><br/>The name must be alphanumeric and must start with a letter and contain no spaces. (Example: HR_Management)',
 		'label'=>'This is the <b>Label</b> that will appear in the navigation tab for the module. ',
-		'savebtn'=>'Click <b>Save</b> to save all entered data related to the module.',
+		'savebtn'=>'Click <b>Guardar</b> to save all entered data related to the module.',
 		'type_basic'=>'The <b>Basic</b> template type provides basic fields, such as the Name, Assigned to, Team, Date Created and Description fields.',
 		'type_company'=>'The <b>Company</b> template type provides organization-specific fields, such as Company Name, Industry and Billing Address.<br/><br/>Use this template to create modules that are similar to the standard Accounts module.',
 		'type_issue'=>'The <b>Issue</b> template type provides case- and bug-specific fields, such as Number, Status, Priority and Description.<br/><br/>Use this template to create modules that are similar to the standard Cases and Bug Tracker modules.',
-		'type_person'=>'The <b>Person</b> template type provides individual-specific fields, such as Salutation, Title, Name, Address and Teléfono Number.<br/><br/>Use this template to create modules that are similar to the standard Contacts and Leads modules.',
+		'type_person'=>'The <b>Person</b> template type provides individual-specific fields, such as Salutation, Title, Name, Address and Teléfono Number.<br/><br/>Use this template to create modules that are similar to the standard Contactos and Leads modules.',
 		'type_sale'=>'The <b>Sale</b> template type provides opportunity specific fields, such as Lead Source, Stage, Amount and Probability. <br/><br/>Use this template to create modules that are similar to the standard Opportunities module.',
 		'type_file'=>'The <b>File</b> template provides Document specific fields, such as File Name, Document type, and Publish Date.<br><br>Use this template to create modules that are similar to the standard Documents module.',
 
@@ -98,7 +98,7 @@ $mod_strings = array(
 	'subPanelEditor'=>array(
 		'modify'	=> 'All of the fields that can be displayed in the <b>Subpanel</b> appear here.<br><br>The <b>Default</b> column contains the fields that are displayed in the Subpanel.<br/><br/>The <b>Hidden</b> column contains fields that can be added to the Default column.'
     ,
-		'savebtn'	=> 'Click <b>Save & Deploy</b> to save changes you made and to make them active within the module.',
+		'savebtn'	=> 'Click <b>Guardar & Deploy</b> to save changes you made and to make them active within the module.',
 		'historyBtn'=> 'Click <b>View History</b> to view and restore a previously saved layout from the history.',
 	    'historyDefault'=> 'Click <b>Restore Default</b> to restore a view to its original layout.',
 		'Hidden' 	=> '<b>Hidden</b> fields do not appear in the subpanel.',
@@ -108,7 +108,7 @@ $mod_strings = array(
 	'listViewEditor'=>array(
 		'modify'	=> 'All of the fields that can be displayed in the <b>ListView</b> appear here.<br><br>The <b>Default</b> column contains the fields that are displayed in the ListView by default.<br/><br/>The <b>Available</b> column contains fields that a user can select in the Search to create a custom ListView. <br/><br/>The <b>Hidden</b> column contains fields that can be added to the Default or Available column.'
     ,
-		'savebtn'	=> 'Click <b>Save & Deploy</b> to save changes you made and to make them active within the module.',
+		'savebtn'	=> 'Click <b>Guardar & Deploy</b> to save changes you made and to make them active within the module.',
 		'historyBtn'=> 'Click <b>View History</b> to view and restore a previously saved layout from the history.<br><br><b>Restore</b> within <b>View History</b> restores the field placement within previously saved layouts. To change field labels, click the Edit icon next to each field.',
 		'historyDefault'=> 'Click <b>Restore Default</b> to restore a view to its original layout.<br><br><b>Restore Default</b> only restores the field placement within the original layout. To change field labels, click the Edit icon next to each field.',
 		'Hidden' 	=> '<b>Hidden</b> fields not currently available for users to see in ListViews.',
@@ -118,7 +118,7 @@ $mod_strings = array(
 	'popupListViewEditor'=>array(
 		'modify'	=> 'All of the fields that can be displayed in the <b>ListView</b> appear here.<br><br>The <b>Default</b> column contains the fields that are displayed in the ListView by default.<br/><br/>The <b>Hidden</b> column contains fields that can be added to the Default or Available column.'
     ,
-		'savebtn'	=> 'Click <b>Save & Deploy</b> to save changes you made and to make them active within the module.',
+		'savebtn'	=> 'Click <b>Guardar & Deploy</b> to save changes you made and to make them active within the module.',
 		'historyBtn'=> 'Click <b>View History</b> to view and restore a previously saved layout from the history.<br><br><b>Restore</b> within <b>View History</b> restores the field placement within previously saved layouts. To change field labels, click the Edit icon next to each field.',
 		'historyDefault'=> 'Click <b>Restore Default</b> to restore a view to its original layout.<br><br><b>Restore Default</b> only restores the field placement within the original layout. To change field labels, click the Edit icon next to each field.',
 		'Hidden' 	=> '<b>Hidden</b> fields not currently available for users to see in ListViews.',
@@ -127,7 +127,7 @@ $mod_strings = array(
 	'searchViewEditor'=>array(
 		'modify'	=> 'All of the fields that can be displayed in the <b>Search</b> form appear here.<br><br>The <b>Default</b> column contains the fields that will be displayed in the Search form.<br/><br/>The <b>Hidden</b> column contains fields available for you as an admin to add to the Search form.'
     ,
-		'savebtn'	=> 'Clicking <b>Save & Deploy</b> will save all changes and make them active',
+		'savebtn'	=> 'Clicking <b>Guardar & Deploy</b> will save all changes and make them active',
 		'Hidden' 	=> '<b>Hidden</b> fields do not appear in the Search.',
 		'historyBtn'=> 'Click <b>View History</b> to view and restore a previously saved layout from the history.<br><br><b>Restore</b> within <b>View History</b> restores the field placement within previously saved layouts. To change field labels, click the Edit icon next to each field.',
 		'historyDefault'=> 'Click <b>Restore Default</b> to restore a view to its original layout.<br><br><b>Restore Default</b> only restores the field placement within the original layout. To change field labels, click the Edit icon next to each field.',
@@ -141,10 +141,10 @@ $mod_strings = array(
 		//this defualt will be used for edit view
 		'default'	=> 'The <b>Layout</b> area contains the fields that are currently displayed within the <b>EditView</b>.<br/><br/>The <b>Toolbox</b> contains the <b>Recycle Bin</b> and the fields and layout elements that can be added to the layout.<br><br>Make changes to the layout by dragging and dropping elements and fields between the <b>Toolbox</b> and the <b>Layout</b> and within the layout itself.<br><br>To remove a field from the layout, drag the field to the <b>Recycle Bin</b>. The field will then be available in the Toolbox to add to the layout.'
     ,
-		'saveBtn'	=> 'Click <b>Save</b> to preserve the changes you made to the layout since the last time you saved it.<br><br>The changes will not be displayed in the module until you Deploy the saved changes.',
+		'saveBtn'	=> 'Click <b>Guardar</b> to preserve the changes you made to the layout since the last time you saved it.<br><br>The changes will not be displayed in the module until you Deploy the saved changes.',
 		'historyBtn'=> 'Click <b>View History</b> to view and restore a previously saved layout from the history.<br><br><b>Restore</b> within <b>View History</b> restores the field placement within previously saved layouts. To change field labels, click the Edit icon next to each field.',
 		'historyDefault'=> 'Click <b>Restore Default</b> to restore a view to its original layout.<br><br><b>Restore Default</b> only restores the field placement within the original layout. To change field labels, click the Edit icon next to each field.',
-		'publishBtn'=> 'Click <b>Save & Deploy</b> to save all changes you made to the layout since the last time you saved it, and to make the changes active in the module.<br><br>The layout will immediately be displayed in the module.',
+		'publishBtn'=> 'Click <b>Guardar & Deploy</b> to save all changes you made to the layout since the last time you saved it, and to make the changes active in the module.<br><br>The layout will immediately be displayed in the module.',
 		'toolbox'	=> 'The <b>Toolbox</b> contains the <b>Recycle Bin</b>, additional layout elements and the set of available fields to add to the layout.<br/><br/>The layout elements and fields in the Toolbox can be dragged and dropped into the layout, and the layout elements and fields can be dragged and dropped from the layout into the Toolbox.<br><br>The layout elements are <b>Panels</b> and <b>Rows</b>. Adding a new row or a new panel to the layout provides additional locations in the layout for fields.<br/><br/>Drag and drop any of the fields in the Toolbox or layout onto a occupied field position to swap the locations of the two fields.<br/><br/>The <b>Filler</b> field creates blank space in the layout where it is placed.',
 		'panels'	=> 'The <b>Layout</b> area provides a view of how the layout will appear within the module when the changes made to the layout are deployed.<br/><br/>You can reposition fields, rows and panels by dragging and dropping them in the desired location.<br/><br/>Remove elements by dragging and dropping them in the <b>Recycle Bin</b> in the Toolbox, or add new elements and fields by dragging them from the <b>Toolbox</b>s and dropping them in the desired location in the layout.',
 		'delete'	=> 'Drag and drop any element here to remove it from the layout',
@@ -216,7 +216,7 @@ $mod_strings = array(
 		<b>Module:</b> The name of the module.<br/><br/>
 		<b>Required:</b> Required modules must be created or selected before the lead can be converted.<br/><br/>
 		<b>Copy Data:</b> If checked, fields from the lead will be copied to fields with the same name in the newly created records.<br/><br/>
-		<b>Allow Selection:</b> Modules with a relate field in Contacts can be selected rather than created during the convert lead process.<br/><br/>
+		<b>Allow Selection:</b> Modules with a relate field in Contactos can be selected rather than created during the convert lead process.<br/><br/>
 		<b>Edit:</b> Modify the convert layout for this module.<br/><br/>
 		<b>Delete:</b> Remove this module from the convert layout.<br/><br/>
 		",
@@ -233,8 +233,8 @@ $mod_strings = array(
 	),
 	'labelsHelp'=>array(
 		'default'=> 'The <b>Labels</b> for the fields and other titles in the module can be changed.<br><br>Edit the label by clicking within the field, entering a new label and clicking <b>Save</b>.<br><br>If any language packs are installed in the application, you can select the <b>Language</b> to use for the labels.',
-		'saveBtn'=>'Click <b>Save</b> to save all changes.',
-		'publishBtn'=>'Click <b>Save & Deploy</b> to save all changes and make them active.',
+		'saveBtn'=>'Click <b>Guardar</b> to save all changes.',
+		'publishBtn'=>'Click <b>Guardar & Deploy</b> to save all changes and make them active.',
 	),
 	'portalSync'=>array(
 	    'default' => 'Enter the <b>Sugar Portal URL</b> of the portal instance to update, and click <b>Go</b>.<br><br>Then enter a valid Sugar user name and password, and then click <b>Begin Sync</b>.<br><br>The customizations made to the Sugar Portal <b>Layouts</b>, along with the <b>Style Sheet</b> if one was uploaded, will be transferred to specified the portal instance.',
@@ -259,7 +259,7 @@ $mod_strings = array(
 	'module'=>array(
 		'somemodules'=>"Since the current package contains at least one module, you can <b>Deploy</b> the modules in the package within your Sugar instance or <b>Publish</b> the package to be installed in the current Sugar instance or another instance using the <b>Module Loader</b>.<br/><br/>To install the package directly within your Sugar instance, click <b>Deploy</b>.<br><br>To create a .zip file for the package that can be loaded and installed within the current Sugar instance and other instances using the <b>Module Loader</b>, click <b>Publish</b>.<br/><br/> You can build the modules for this package in stages, and publish or deploy when you are ready to do so. <br/><br/>After publishing or deploying a package, you can make changes to the package properties and customize the modules further.  Then re-publish or re-deploy the package to apply the changes." ,
 		'editView'=> 'Here you can edit the existing fields. You can remove any of the existing fields or add available fields in the left panel.',
-		'create'=>'When choosing the type of <b>Type</b> of module that you wish to create, keep in mind the types of fields you would like to have within the module. <br/><br/>Each module template contains a set of fields pertaining to the type of module described by the title.<br/><br/><b>Basic</b> - Provides basic fields that appear in standard modules, such as the Name, Assigned to, Team, Date Created and Description fields.<br/><br/> <b>Company</b> - Provides organization-specific fields, such as Company Name, Industry and Billing Address.  Use this template to create modules that are similar to the standard Accounts module.<br/><br/> <b>Person</b> - Provides individual-specific fields, such as Salutation, Title, Name, Address and Phone Number.  Use this template to create modules that are similar to the standard Contacts and Leads modules.<br/><br/><b>Issue</b> - Provides case- and bug-specific fields, such as Number, Status, Priority and Description.  Use this template to create modules that are similar to the standard Cases and Bug Tracker modules.<br/><br/>Note: After you create the module, you can edit the labels of the fields provided by the template, as well as create custom fields to add to the module layouts.',
+		'create'=>'When choosing the type of <b>Type</b> of module that you wish to create, keep in mind the types of fields you would like to have within the module. <br/><br/>Each module template contains a set of fields pertaining to the type of module described by the title.<br/><br/><b>Basic</b> - Provides basic fields that appear in standard modules, such as the Name, Assigned to, Team, Date Created and Description fields.<br/><br/> <b>Company</b> - Provides organization-specific fields, such as Company Name, Industry and Billing Address.  Use this template to create modules that are similar to the standard Accounts module.<br/><br/> <b>Person</b> - Provides individual-specific fields, such as Salutation, Title, Name, Address and Phone Number.  Use this template to create modules that are similar to the standard Contactos and Leads modules.<br/><br/><b>Issue</b> - Provides case- and bug-specific fields, such as Number, Status, Priority and Description.  Use this template to create modules that are similar to the standard Cases and Bug Tracker modules.<br/><br/>Note: After you create the module, you can edit the labels of the fields provided by the template, as well as create custom fields to add to the module layouts.',
 		'afterSave'=>'Customize the module to suit your needs by editing and creating fields, establishing relationships with other modules and arranging the fields within the layouts.<br/><br/>To view the template fields and manage custom fields within the module, click <b>View Fields</b>.<br/><br/>To create and manage relationships between the module and other modules, whether modules already in the application or other custom modules within the same package, click <b>View Relationships</b>.<br/><br/>To edit the module layouts, click <b>View Layouts</b>. You can change the Detail View, Edit View and List View layouts for the module just as you would for modules already in the application within Studio.<br/><br/> To create a module with the same properties as the current module, click <b>Duplicate</b>.  You can further customize the new module.',
 		'viewfields'=>'The fields in the module can be customized to suit your needs.<br/><br/>You can not delete standard fields, but you can remove them from the appropriate layouts within the Layouts pages. <br/><br/>You can quickly create new fields that have similar properties to existing fields by clicking <b>Clone</b> in the <b>Properties</b> form.  Enter any new properties, and then click <b>Save</b>.<br/><br/>It is recommended that you set all of the properties for the standard fields and custom fields before you publish and install the package containing the custom module.',
 		'viewrelationships'=>'You can create many-to-many relationships between the current module and other modules in the package, and/or between the current module and modules already installed in the application.<br><br> To create one-to-many and one-to-one relationships, create <b>Relate</b> and <b>Flex Relate</b> fields for the modules.',
@@ -269,7 +269,7 @@ $mod_strings = array(
 	),
 	'listViewEditor'=>array(
 		'modify'	=> 'There are three columns displayed to the left. The "Default" column contains the fields that are displayed in a list view by default, the "Available" column contains fields that a user can choose to use for creating a custom list view, and the "Hidden" column contains fields available for you as an admin to either add to the default or Available columns for use by users but are currently disabled.',
-		'savebtn'	=> 'Clicking <b>Save</b> will save all changes and make them active.',
+		'savebtn'	=> 'Clicking <b>Guardar</b> will save all changes and make them active.',
 		'Hidden' 	=> 'Hidden fields are fields that are not currently available to users for use in list views.',
 		'Available' => 'Available fields are fields that are not shown by default, but can be enabled by users.',
 		'Default'	=> 'Default fields are displayed to users who have not created custom list view settings.'
@@ -277,7 +277,7 @@ $mod_strings = array(
 
 	'searchViewEditor'=>array(
 		'modify'	=> 'There are two columns displayed to the left. The "Default" column contains the fields that will be displayed in the search view, and the "Hidden" column contains fields available for you as an admin to add to the view.',
-		'savebtn'	=> 'Clicking <b>Save & Deploy</b> will save all changes and make them active.',
+		'savebtn'	=> 'Clicking <b>Guardar & Deploy</b> will save all changes and make them active.',
 		'Hidden' 	=> 'Hidden fields are fields that will not be shown in the search view.',
 		'Default'	=> 'Default fields will be shown in the search view.'
 	),
@@ -312,7 +312,7 @@ $mod_strings = array(
 		'moduleBtn'	=> 'Click to edit this module.',
 		'moduleHelp'=> 'Select the module component that you would like to edit',
 		'fieldsBtn'	=> 'Edit what information is stored in the module by controlling the <b>Fields</b> in the module.<br/><br/>You can edit and create custom fields here.',
-		'labelsBtn' => 'Click <b>Save</b> to save your custom labels.'	,
+		'labelsBtn' => 'Click <b>Guardar</b> to save your custom labels.'	,
 		'layoutsBtn'=> 'Customize the <b>Layouts</b> of the Edit, Detail, List and search views.',
 		'subpanelBtn'=> 'Edit what information is shown in this modules subpanels.',
 		'layoutsHelp'=> 'Select a <b>Layout to edit</b>.<br/<br/>To change the layout that contains data fields for entering data, click <b>Edit View</b>.<br/><br/>To change the layout that displays the data entered into the fields in the Edit View, click <b>Detail View</b>.<br/><br/>To change the columns which appear in the default list, click <b>List View</b>.<br/><br/>To change the Basic and Advanced search form layouts, click <b>Search</b>.',
@@ -379,7 +379,7 @@ $mod_strings = array(
 'LBL_EDITVIEW'=>'EditView',
 'LBL_FILLER'=>'(filler)',
 'LBL_FIELDS'=>'Fields',
-'LBL_FAILED_TO_SAVE' => 'Failed To Save',
+'LBL_FAILED_TO_SAVE' => 'Failed To Guardar',
 'LBL_FAILED_PUBLISHED' => 'Failed to Publish',
 'LBL_HOMEPAGE_PREFIX' => 'My',
 'LBL_LAYOUT_PREVIEW'=>'Layout Preview',
@@ -394,7 +394,7 @@ $mod_strings = array(
 'LBL_PUBLISHING' => 'Publishing ...',
 'LBL_PUBLISHED' => 'Published',
 'LBL_SELECT_FILE'=> 'Select File',
-'LBL_SAVE_LAYOUT'=> 'Save Layout',
+'LBL_SAVE_LAYOUT'=> 'Guardar Layout',
 'LBL_SELECT_A_SUBPANEL' => 'Select a Subpanel',
 'LBL_SELECT_SUBPANEL' => 'Select Subpanel',
 'LBL_SUBPANELS' => 'Subpanels',
@@ -421,7 +421,7 @@ $mod_strings = array(
 'LBL_DROPDOWN_ITEM_NAME' => 'Item Name',
 'LBL_DROPDOWN_ITEM_LABEL' => 'Display Label',
 'LBL_SYNC_TO_DETAILVIEW' => 'Sync to DetailView',
-'LBL_SYNC_TO_DETAILVIEW_HELP' => 'Select this option to sync this EditView layout to the corresponding DetailView layout. Fields and field placement in the EditView<br>will be sync\'d and saved to the DetailView automatically upon clicking Save or Save & Deploy in the EditView. <br>Layout changes will not be able to be made in the DetailView.',
+'LBL_SYNC_TO_DETAILVIEW_HELP' => 'Select this option to sync this EditView layout to the corresponding DetailView layout. Fields and field placement in the EditView<br>will be sync\'d and saved to the DetailView automatically upon clicking Save or Guardar & Deploy in the EditView. <br>Layout changes will not be able to be made in the DetailView.',
 'LBL_SYNC_TO_DETAILVIEW_NOTICE' => 'This DetailView is sync\'d with the corresponding EditView.<br> Fields and field placement in this DetailView reflect the fields and field placement in the EditView.<br> Changes to the DetailView cannot be saved or deployed within this page. Make changes or un-sync the layouts in the EditView. ',
 'LBL_COPY_FROM_EDITVIEW' => 'Copy from EditView',
 'LBL_DROPDOWN_BLANK_WARNING' => 'Values are required for both the Item Name and the Display Label. To add a blank item, click Add without entering any values for the Item Name and the Display Label.',
@@ -515,12 +515,12 @@ $mod_strings = array(
 
 //BUTTONS
 'LBL_BTN_ADD'=>'Add',
-'LBL_BTN_SAVE'=>'Save',
-'LBL_BTN_SAVE_CHANGES'=>'Save Changes',
+'LBL_BTN_SAVE'=>'Guardar',
+'LBL_BTN_SAVE_CHANGES'=>'Guardar Changes',
 'LBL_BTN_DONT_SAVE'=>'Discard Changes',
-'LBL_BTN_CANCEL'=>'Cancel',
-'LBL_BTN_CLOSE'=>'Close',
-'LBL_BTN_SAVEPUBLISH'=>'Save & Deploy',
+'LBL_BTN_CANCEL'=>'Cancelar',
+'LBL_BTN_CLOSE'=>'Cerrar',
+'LBL_BTN_SAVEPUBLISH'=>'Guardar & Deploy',
 'LBL_BTN_NEXT'=>'Next',
 'LBL_BTN_BACK'=>'Back',
 'LBL_BTN_CLONE'=>'Clone',
@@ -650,7 +650,7 @@ $mod_strings = array(
 'LBL_CONFIRM_RELATIONSHIP_DELETE'=>'Are you sure you wish to delete this relationship?',
 'LBL_CONFIRM_RELATIONSHIP_DEPLOY'=>'This will make this relationship permanent. Are you sure you wish to deploy this relationship?',
 'LBL_CONFIRM_DONT_SAVE' => 'Changes have been made since you last saved, would you like to save?',
-'LBL_CONFIRM_DONT_SAVE_TITLE' => 'Save Changes?',
+'LBL_CONFIRM_DONT_SAVE_TITLE' => 'Guardar Changes?',
 'LBL_CONFIRM_LOWER_LENGTH' => 'Data may be truncated and this cannot be undone, are you sure you wish to continue?',
 
 //POPUP HELP

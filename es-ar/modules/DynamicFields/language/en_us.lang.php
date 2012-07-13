@@ -45,13 +45,13 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 
 $mod_strings = array (
-    'LNK_NEW_CALL' => 'Log Call',
-    'LNK_NEW_MEETING' => 'Schedule Meeting',
+    'LNK_NEW_CALL' => 'Log Llamada',
+    'LNK_NEW_MEETING' => 'Agendar Reunión',
     'LNK_NEW_TASK' => 'Crear Tarea',
     'LNK_NEW_NOTE' => 'Crear Note or Attachment',
     'LNK_NEW_EMAIL' => 'Archive Email',
-    'LNK_CALL_LIST' => 'Calls',
-    'LNK_MEETING_LIST' => 'Meetings',
+    'LNK_CALL_LIST' => 'Llamadas',
+    'LNK_MEETING_LIST' => 'Reuniones',
     'LNK_TASK_LIST' => 'Tareas',
     'LNK_NOTE_LIST' => 'Notes',
     'LNK_EMAIL_LIST' => 'Correos',
