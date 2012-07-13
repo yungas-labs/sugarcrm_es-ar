@@ -58,7 +58,7 @@ $mod_strings = array (
   'LBL_STATUS' => 'Status:',
   'LBL_PRIORITY' => 'Priority:',
   'LBL_DESCRIPTION' => 'Description:',
-  'LBL_CONTACT_NAME' => 'Contact Name:',
+  'LBL_CONTACT_NAME' => 'Contacto Name:',
   'LBL_BUG_SUBJECT' => 'Bug Subject:',
   'LBL_CONTACT_ROLE' => 'Role:',
   'LBL_LIST_NUMBER' => 'Num.',
@@ -88,12 +88,12 @@ $mod_strings = array (
   'LBL_PRODUCT_CATEGORY' => 'Category:',
 
   'LBL_CREATED_BY' => 'Created by:',
-  'LBL_DATE_CREATED' => 'Create Date:',
+  'LBL_DATE_CREATED' => 'Crear Date:',
   'LBL_MODIFIED_BY' => 'Last Modified by:',
   'LBL_DATE_LAST_MODIFIED' => 'Modify Date:',
 
   'LBL_LIST_EMAIL_ADDRESS' => 'Email Address',
-  'LBL_LIST_CONTACT_NAME' => 'Contact Name',
+  'LBL_LIST_CONTACT_NAME' => 'Contacto Name',
   'LBL_LIST_ACCOUNT_NAME' => 'Account Name',
   'LBL_LIST_PHONE' => 'Phone',
   'NTC_DELETE_CONFIRMATION' => 'Are you sure you want to remove this contact from this bug?',

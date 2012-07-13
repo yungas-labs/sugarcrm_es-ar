@@ -56,7 +56,7 @@ $mod_strings = array (
 	'LBL_CASE_SUBJECT'					=> 'Case Subject:',
 	'LBL_CASE'							=> 'Case:',
 	'LBL_CONTACT_CASE_TITLE'			=> 'Contact-Case:',
-	'LBL_CONTACT_NAME'					=> 'Contact Name:',
+	'LBL_CONTACT_NAME'					=> 'Contacto Name:',
 	'LBL_CONTACT_ROLE'					=> 'Role:',
 	'LBL_CONTACTS_SUBPANEL_TITLE'		=> 'Contacts',
 	'LBL_DEFAULT_SUBPANEL_TITLE'		=> 'Cases',
@@ -91,7 +91,7 @@ $mod_strings = array (
 	'LBL_LIST_ASSIGNED_TO_NAME'   		=> 'Assigned User',
 
 	'LNK_CASE_LIST'						=> 'View Cases',
-	'LNK_NEW_CASE'						=> 'Create Case',
+	'LNK_NEW_CASE'						=> 'Crear Case',
 	'NTC_REMOVE_FROM_BUG_CONFIRMATION'	=> 'Are you sure you want to remove this case from the bug?',
 	'NTC_REMOVE_INVITEE'				=> 'Are you sure you want to remove this contact from the case?',
 	'LBL_LIST_DATE_CREATED'			=> 'Date Created',

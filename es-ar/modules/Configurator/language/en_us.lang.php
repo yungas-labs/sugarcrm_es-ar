@@ -147,7 +147,7 @@ $mod_strings = array (
     'LBL_LDAP_ADMIN_PASSWORD'=> 'Password:',
 	'LBL_LDAP_AUTHENTICATION'=> 'Authentication:',
 	'LBL_LDAP_AUTHENTICATION_DESC'=>'Bind to the LDAP server using a specific users credentials',
-    'LBL_LDAP_AUTO_CREATE_USERS'=>'Auto Create Users:',
+    'LBL_LDAP_AUTO_CREATE_USERS'=>'Auto Crear Users:',
     'LBL_LDAP_USER_DN'=>'User DN:',
 	'LBL_LDAP_GROUP_DN'=>'Group DN:',
 	'LBL_LDAP_GROUP_DN_DESC'=>'Example: <em>ou=groups,dc=example,dc=com</em>',

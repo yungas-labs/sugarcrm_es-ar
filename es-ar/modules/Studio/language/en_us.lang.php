@@ -110,7 +110,7 @@ $mod_strings = array (
 'LBL_MB_WELCOME'=> '<h2>History</h2><br> History allows you to view previously deployed editions of the file you are currently working on. You can compare and restore previous versions. If you do restore a file it will become your working file. You must deploy it before it is visible by everyone else.<br> What would you like to do today?<br><b> Please select from the options below.</b>',
 
 //EDIT DROP DOWNS
-'LBL_ED_CREATE_DROPDOWN'=> 'Create a Drop Down',
+'LBL_ED_CREATE_DROPDOWN'=> 'Crear a Drop Down',
 'LBL_ED_WELCOME'=>'<h2>Drop Down Editor</h2><br><b>You can either edit an existing drop down or create a new drop down.',
 'LBL_DROPDOWN_NAME' => 'Dropdown Name:',
 'LBL_DROPDOWN_LANGUAGE' => 'Dropdown Language:',
@@ -119,7 +119,7 @@ $mod_strings = array (
 //EDIT CUSTOM FIELDS
 'LBL_EC_WELCOME'=>'<h2>Custom Field Editor</h2><br><b>You can either view and edit an existing custom field, create a new custom field or clean the custom field cache.',
 'LBL_EC_VIEW_CUSTOMFIELDS'=> 'View Custom Fields',
-'LBL_EC_CREATE_CUSTOMFIELD'=>'Create Custom Field',
+'LBL_EC_CREATE_CUSTOMFIELD'=>'Crear Custom Field',
 'LBL_EC_CLEAR_CACHE'=>'Clear Cache',
 
 //SELECT MODULE

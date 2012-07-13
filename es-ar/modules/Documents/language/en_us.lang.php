@@ -47,7 +47,7 @@ $mod_strings = array (
 	//module
 	'LBL_MODULE_NAME' => 'Documents',
 	'LBL_MODULE_TITLE' => 'Documents: Home',
-	'LNK_NEW_DOCUMENT' => 'Create Document',
+	'LNK_NEW_DOCUMENT' => 'Crear Document',
 	'LNK_DOCUMENT_LIST'=> 'View Documents',
 	'LBL_DOC_REV_HEADER' => 'Document Revisions',
 	'LBL_SEARCH_FORM_TITLE'=> 'Document Search',
@@ -162,7 +162,7 @@ $mod_strings = array (
 	'LBL_LIST_SELECTED_REVISION'=>'Selected Revision',
 	'LBL_LIST_LATEST_REVISION'=>'Latest Revision',
 	'LBL_CONTRACTS_SUBPANEL_TITLE'=>'Related Contracts',
-	'LBL_LAST_REV_CREATE_DATE'=>'Last Revision Create Date',
+	'LBL_LAST_REV_CREATE_DATE'=>'Last Revision Crear Date',
     //'LNK_DOCUMENT_CAT'=>'Document Categories',
     'LBL_CONTRACTS' => 'Contracts',
     'LBL_CREATED_USER' => 'Created User',

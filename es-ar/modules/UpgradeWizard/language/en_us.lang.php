@@ -188,7 +188,7 @@ $mod_strings = array(
 	'LBL_UW_PATCH_READY'						=> 'The patch is ready to proceed. Click the "Commit" button below to complete the upgrade process.',
 	'LBL_UW_PATCH_READY2'						=> '<h2>Notice: Customized Layouts Found</h2><br />The following file(s) have new fields or modified screen layouts applied via the Studio. The patch you are about to install also contains changes to the file(s). For <u>each file</u> you may:<br><ul><li>[<b>Default</b>] Retain your version by leaving the checkbox blank. The patch modifications will be ignored.</li>or<li>Accept the updated files by selecting the checkbox. Your layouts will need to be re-applied via Studio.</li></ul>',
 
-	'LBL_UW_PREFLIGHT_ADD_TASK'					=> 'Create Task Item for Manual Merge?',
+	'LBL_UW_PREFLIGHT_ADD_TASK'					=> 'Crear Tarea Item for Manual Merge?',
 	'LBL_UW_PREFLIGHT_COMPLETE'					=> 'Preflight Check',
 	'LBL_UW_PREFLIGHT_DIFF'						=> 'Differentiated ',
 	'LBL_UW_PREFLIGHT_EMAIL_REMINDER'			=> 'Email Yourself a Reminder for Manual Merge?',

@@ -58,7 +58,7 @@ $mod_strings = array (
   'LBL_LIST_FORM_TITLE' => 'OAuth Keys',
   'LBL_MODULE_NAME' => 'OAuth Keys',
   'LBL_MODULE_TITLE' => 'OAuth Keys',
-  'LNK_NEW_RECORD' => 'Create OAuth Key',
+  'LNK_NEW_RECORD' => 'Crear OAuth Key',
   'LNK_LIST' => 'View OAuth Keys',
   'LBL_TOKENS' => 'Tokens',
 );

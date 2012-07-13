@@ -47,7 +47,7 @@ $mod_strings = array (
 	//module
 	'LBL_MODULE_NAME' => 'Document Revision',
 
-	'LNK_NEW_DOCUMENT' => 'Create Document',
+	'LNK_NEW_DOCUMENT' => 'Crear Document',
 	'LNK_DOCUMENT_LIST'=> 'View Documents',
 
 	//vardef labels

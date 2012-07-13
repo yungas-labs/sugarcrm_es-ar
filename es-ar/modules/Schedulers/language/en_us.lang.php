@@ -46,8 +46,8 @@ global $sugar_config;
 
 $mod_strings = array (
 // OOTB Scheduler Job Names:
-'LBL_OOTB_WORKFLOW'		=> 'Process Workflow Tasks',
-'LBL_OOTB_REPORTS'		=> 'Run Report Generation Scheduled Tasks',
+'LBL_OOTB_WORKFLOW'		=> 'Process Workflow Tareas',
+'LBL_OOTB_REPORTS'		=> 'Run Report Generation Scheduled Tareas',
 'LBL_OOTB_IE'			=> 'Check Inbound Mailboxes',
 'LBL_OOTB_BOUNCE'		=> 'Run Nightly Process Bounced Campaign Emails',
 'LBL_OOTB_CAMPAIGN'		=> 'Run Nightly Mass Email Campaigns',
@@ -130,7 +130,7 @@ $mod_strings = array (
 'LBL_TOGGLE_BASIC' => 'Show Basic Options',
 // Links
 'LNK_LIST_SCHEDULER' => 'Schedulers',
-'LNK_NEW_SCHEDULER' => 'Create Scheduler',
+'LNK_NEW_SCHEDULER' => 'Crear Scheduler',
 'LNK_LIST_SCHEDULED' => 'Scheduled Jobs',
 // Messages
 'SOCK_GREETING' => "\nThis is the interface for SugarCRM Schedulers Service. \n[ Available daemon commands: start|restart|shutdown|status ]\nTo quit, type 'quit'.  To shutdown the service 'shutdown'.\n",
@@ -142,7 +142,7 @@ $mod_strings = array (
 'LBL_CRON_INSTRUCTIONS_WINDOWS' => 'To Setup Windows Scheduler',
 'LBL_CRON_INSTRUCTIONS_LINUX' => 'To Setup Crontab',
 'LBL_CRON_LINUX_DESC' => 'Note: In order to run Sugar Schedulers, add the following line to the crontab file: ',
-'LBL_CRON_WINDOWS_DESC' => 'Note: In order to run the Sugar schedulers, create a batch file to run using Windows Scheduled Tasks. The batch file should include the following commands: ',
+'LBL_CRON_WINDOWS_DESC' => 'Note: In order to run the Sugar schedulers, create a batch file to run using Windows Scheduled Tareas. The batch file should include the following commands: ',
 'LBL_NO_PHP_CLI' => 'If your host does not have the PHP binary available, you can use wget or curl to launch your Jobs.<br>for wget: <b>*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;wget --quiet --non-verbose '.$sugar_config['site_url'].'/cron.php > /dev/null 2>&1</b><br>for curl: <b>*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;curl --silent '.$sugar_config['site_url'].'/cron.php > /dev/null 2>&1',
 // Subpanels
 'LBL_JOBS_SUBPANEL_TITLE'	=> 'Job Log',
