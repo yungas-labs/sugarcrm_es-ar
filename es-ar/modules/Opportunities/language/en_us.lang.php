@@ -140,7 +140,7 @@ $mod_strings = array (
   'LBL_CAMPAIGN_OPPORTUNITY' => 'Campaigns',
   'LBL_PROJECT_SUBPANEL_TITLE' => 'Projects',
   'LABEL_PANEL_ASSIGNMENT' => 'Assignment',
-  'LNK_IMPORT_OPPORTUNITIES' => 'Import Opportunities',
+  'LNK_IMPORT_OPPORTUNITIES' => 'Importar Opportunities',
   'LBL_EDITLAYOUT' => 'Edit Layout' /*for 508 compliance fix*/,
   //For export labels
     'LBL_EXPORT_CAMPAIGN_ID' => 'Campaign ID',
@@ -152,7 +152,7 @@ $mod_strings = array (
     'LBL_EXPORT_NAME'=>'Name',
 
   // SNIP
-  'LBL_CONTACT_HISTORY_SUBPANEL_TITLE' => 'Related Contacts\' Emails',
+  'LBL_CONTACT_HISTORY_SUBPANEL_TITLE' => 'Related Contacts\' Correos',
 );
 
 ?>

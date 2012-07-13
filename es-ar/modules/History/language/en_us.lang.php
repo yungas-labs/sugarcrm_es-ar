@@ -72,7 +72,7 @@ $mod_strings = array (
   'LNK_MEETING_LIST' => 'Meetings',
   'LNK_TASK_LIST' => 'Tareas',
   'LNK_NOTE_LIST' => 'Notes',
-  'LNK_EMAIL_LIST' => 'Emails',
+  'LNK_EMAIL_LIST' => 'Correos',
   'ERR_DELETE_RECORD' => 'A record number must be specified to delete the account.',
   'NTC_REMOVE_INVITEE' => 'Are you sure you want to remove this invitee from the meeting?',
   'LBL_INVITEE' => 'Invitees',
@@ -111,7 +111,7 @@ $mod_strings = array (
   	,'last this_month' => 'this month'
   	,'last next_month' => 'next month'
   ),
-  'LNK_IMPORT_NOTES'=>'Import Notes',
+  'LNK_IMPORT_NOTES'=>'Importar Notes',
   'NTC_NONE'=>'None',
 	'LBL_ACCEPT_THIS'=>'Accept?',
 	'LBL_DEFAULT_SUBPANEL_TITLE' => 'History',

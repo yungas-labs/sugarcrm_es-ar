@@ -79,7 +79,7 @@ $mod_strings = array (
   'NTC_REMOVE_ACCOUNT_CONFIRMATION' => 'Are you sure you want to remove this bug from this account?',
   'ERR_DELETE_RECORD' => 'You must specify a record number in order to delete the bug.',
   'LBL_LIST_MY_BUGS' => 'My Assigned Bugs',
-  'LNK_IMPORT_BUGS' => 'Import Bugs',
+  'LNK_IMPORT_BUGS' => 'Importar Bugs',
   'LBL_FOUND_IN_RELEASE' => 'Found in Release:',
   'LBL_FIXED_IN_RELEASE' => 'Fixed in Release:',
   'LBL_LIST_FIXED_IN_RELEASE' => 'Fixed in Release',
@@ -95,7 +95,7 @@ $mod_strings = array (
   'LBL_LIST_EMAIL_ADDRESS' => 'Dirección de Correo',
   'LBL_LIST_CONTACT_NAME' => 'Contacto Name',
   'LBL_LIST_ACCOUNT_NAME' => 'Account Name',
-  'LBL_LIST_PHONE' => 'Phone',
+  'LBL_LIST_PHONE' => 'Teléfono',
   'NTC_DELETE_CONFIRMATION' => 'Are you sure you want to remove this contact from this bug?',
 
   'LBL_DEFAULT_SUBPANEL_TITLE' => 'Bug Tracker',

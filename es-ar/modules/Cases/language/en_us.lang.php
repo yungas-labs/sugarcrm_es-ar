@@ -98,7 +98,7 @@ $mod_strings = array (
 	'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
 	'LBL_TYPE'=>'Type',
 	'LBL_WORK_LOG'=>'Work Log',
-	'LNK_IMPORT_CASES' => 'Import Cases',
+	'LNK_IMPORT_CASES' => 'Importar Cases',
 
     'LBL_CREATED_USER' => 'Created User',
     'LBL_MODIFIED_USER' => 'Modified User',
@@ -130,7 +130,7 @@ $mod_strings = array (
     'LBL_EXPORT_TEAM_COUNT' => 'Team Count',
 
     // SNIP
-	'LBL_CONTACT_HISTORY_SUBPANEL_TITLE' => 'Related Contacts\' Emails',
+	'LBL_CONTACT_HISTORY_SUBPANEL_TITLE' => 'Related Contacts\' Correos',
 );
 
 ?>

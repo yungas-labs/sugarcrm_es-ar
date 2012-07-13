@@ -218,12 +218,12 @@ $mod_strings = array(
 	'LBL_DBCONF_DB_DROP_CREATE'			=> 'Drop and Recreate Existing Sugar tables?',
     'LBL_DBCONF_DB_DROP'                => 'Drop Tables',
     'LBL_DBCONF_DB_NAME'				=> 'Database Name',
-	'LBL_DBCONF_DB_PASSWORD'			=> 'Sugar Database User Password',
-	'LBL_DBCONF_DB_PASSWORD2'			=> 'Re-enter Sugar Database User Password',
+	'LBL_DBCONF_DB_PASSWORD'			=> 'Sugar Database User Contraseña',
+	'LBL_DBCONF_DB_PASSWORD2'			=> 'Re-enter Sugar Database User Contraseña',
 	'LBL_DBCONF_DB_USER'				=> 'Sugar Database Username',
     'LBL_DBCONF_SUGAR_DB_USER'          => 'Sugar Database Username',
     'LBL_DBCONF_DB_ADMIN_USER'          => 'Database Administrator Username',
-    'LBL_DBCONF_DB_ADMIN_PASSWORD'      => 'Database Admin Password',
+    'LBL_DBCONF_DB_ADMIN_PASSWORD'      => 'Database Admin Contraseña',
 	'LBL_DBCONF_DEMO_DATA'				=> 'Populate Database with Demo Data?',
     'LBL_DBCONF_DEMO_DATA_TITLE'        => 'Choose Demo Data',
 	'LBL_DBCONF_HOST_NAME'				=> 'Host Name',
@@ -240,11 +240,11 @@ $mod_strings = array(
     'LBL_DBCONFIG_CREATE_DD'            => 'Define user to create',
     'LBL_DBCONFIG_SAME_DD'              => 'Same as Admin User',
 	//'LBL_DBCONF_I18NFIX'              => 'Apply database column expansion for varchar and char types (up to 255) for multi-byte data?',
-    'LBL_FTS'                           => 'Full Text Search',
+    'LBL_FTS'                           => 'Búsqueda de Texto Completo',
     'LBL_FTS_INSTALLED'                 => 'Installed',
-    'LBL_FTS_INSTALLED_ERR1'            => 'Full Text Search capability is not installed.',
-    'LBL_FTS_INSTALLED_ERR2'            => 'You can still install but will not be able to use Full Text Search functionality.  Please refer to your database server install guide on how to do this, or contact your Administrator.',
-	'LBL_DBCONF_PRIV_PASS'				=> 'Privileged Database User Password',
+    'LBL_FTS_INSTALLED_ERR1'            => 'Búsqueda de Texto Completo capability is not installed.',
+    'LBL_FTS_INSTALLED_ERR2'            => 'You can still install but will not be able to use Búsqueda de Texto Completo functionality.  Please refer to your database server install guide on how to do this, or contact your Administrator.',
+	'LBL_DBCONF_PRIV_PASS'				=> 'Privileged Database User Contraseña',
 	'LBL_DBCONF_PRIV_USER_2'			=> 'Database Account Above Is a Privileged User?',
 	'LBL_DBCONF_PRIV_USER_DIRECTIONS'	=> 'This privileged database user must have the proper permissions to create a database, drop/create tables, and create a user.  This privileged database user will only be used to perform these tasks as needed during the installation process.  You may also use the same database user as above if that user has sufficient privileges.',
 	'LBL_DBCONF_PRIV_USER'				=> 'Privileged Database User Name',
@@ -292,7 +292,7 @@ $mod_strings = array(
 	'LBL_LICENSE_DOWNLOAD_KEY'			=> 'Enter Download Key',
 	'LBL_LICENSE_EXPIRY'				=> 'Expiration Date',
 	'LBL_LICENSE_I_ACCEPT'				=> 'I Accept',
-	'LBL_LICENSE_NUM_USERS'				=> 'Number of Users',
+	'LBL_LICENSE_NUM_USERS'				=> 'Number of Usuarios',
 	'LBL_LICENSE_OC_DIRECTIONS'			=> 'Please enter the number of purchased offline clients.',
 	'LBL_LICENSE_OC_NUM'				=> 'Number of Offline Client Licenses',
 	'LBL_LICENSE_OC'					=> 'Offline Client Licenses',
@@ -300,7 +300,7 @@ $mod_strings = array(
     'LBL_PRINT_SUMM'                    => 'Print Summary',
 	'LBL_LICENSE_TITLE_2'				=> 'SugarCRM License',
 	'LBL_LICENSE_TITLE'					=> 'License Information',
-	'LBL_LICENSE_USERS'					=> 'Licensed Users',
+	'LBL_LICENSE_USERS'					=> 'Licensed Usuarios',
 
 	'LBL_LOCALE_CURRENCY'				=> 'Currency Settings',
 	'LBL_LOCALE_CURR_DEFAULT'			=> 'Default Currency',
@@ -312,9 +312,9 @@ $mod_strings = array(
 	'LBL_LOCALE_CURR_SIG_DIGITS'		=> 'Significant Digits',
 	'LBL_LOCALE_DATEF'					=> 'Default Date Format',
 	'LBL_LOCALE_DESC'					=> 'The specified locale settings will be reflected globally within the Sugar instance.',
-	'LBL_LOCALE_EXPORT'					=> 'Character Set for Import/Export<br> <i>(Email, .csv, vCard, PDF, data import)</i>',
+	'LBL_LOCALE_EXPORT'					=> 'Character Set for Importar/Exportar<br> <i>(Email, .csv, vCard, PDF, data import)</i>',
 	'LBL_LOCALE_EXPORT_DELIMITER'		=> 'Export (.csv) Delimiter',
-	'LBL_LOCALE_EXPORT_TITLE'			=> 'Import/Export Settings',
+	'LBL_LOCALE_EXPORT_TITLE'			=> 'Importar/Exportar Settings',
 	'LBL_LOCALE_LANG'					=> 'Default Language',
 	'LBL_LOCALE_NAMEF'					=> 'Default Name Format',
 	'LBL_LOCALE_NAMEF_DESC'				=> 's = salutation<br />f = first name<br />l = last name',
@@ -383,9 +383,9 @@ $mod_strings = array(
 	'LBL_REQUIRED'						=> '* Required field',
 
     'LBL_SITECFG_ADMIN_Name'            => 'Sugar Application Admin Name',
-	'LBL_SITECFG_ADMIN_PASS_2'			=> 'Re-enter Sugar Admin User Password',
+	'LBL_SITECFG_ADMIN_PASS_2'			=> 'Re-enter Sugar Admin User Contraseña',
 	'LBL_SITECFG_ADMIN_PASS_WARN'		=> 'Caution: This will override the admin password of any previous installation.',
-	'LBL_SITECFG_ADMIN_PASS'			=> 'Sugar Admin User Password',
+	'LBL_SITECFG_ADMIN_PASS'			=> 'Sugar Admin User Contraseña',
 	'LBL_SITECFG_APP_ID'				=> 'Application ID',
 	'LBL_SITECFG_CUSTOM_ID_DIRECTIONS'	=> 'If selected, you must provide an application ID to override the auto-generated ID. The ID ensures that sessions of one Sugar instance are not used by other instances.  If you have a cluster of Sugar installations, they all must share the same application ID.',
 	'LBL_SITECFG_CUSTOM_ID'				=> 'Provide Your Own Application ID',
@@ -555,12 +555,12 @@ $mod_strings = array(
     'advanced_password_new_account_email' => array(
         'subject' => 'Información de la Nueva Cuenta',
         'description' => 'This template is used when the System Administrator sends a new password to a user.',
-        'body' => '<div><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width="550" align=\"\&quot;\&quot;center\&quot;\&quot;\"><tbody><tr><td colspan=\"2\"><p>Here is your account username and temporary password:</p><p>Username : $contact_user_user_name </p><p>Password : $contact_user_user_hash </p><br><p>$config_site_url</p><br><p>After you log in using the above password, you may be required to reset the password to one of your own choice.</p>   </td>         </tr><tr><td colspan=\"2\"></td>         </tr> </tbody></table> </div>',
+        'body' => '<div><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width="550" align=\"\&quot;\&quot;center\&quot;\&quot;\"><tbody><tr><td colspan=\"2\"><p>Here is your account username and temporary password:</p><p>Username : $contact_user_user_name </p><p>Contraseña : $contact_user_user_hash </p><br><p>$config_site_url</p><br><p>After you log in using the above password, you may be required to reset the password to one of your own choice.</p>   </td>         </tr><tr><td colspan=\"2\"></td>         </tr> </tbody></table> </div>',
         'txt_body' =>
 '
 Here is your account username and temporary password:
 Username : $contact_user_user_name
-Password : $contact_user_user_hash
+Contraseña : $contact_user_user_hash
 
 $config_site_url
 

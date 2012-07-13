@@ -54,7 +54,7 @@ $mod_strings = array (
     'LNK_MEETING_LIST' => 'Meetings',
     'LNK_TASK_LIST' => 'Tareas',
     'LNK_NOTE_LIST' => 'Notes',
-    'LNK_EMAIL_LIST' => 'Emails',
+    'LNK_EMAIL_LIST' => 'Correos',
     'LBL_ADD_FIELD'=> 'Add Field:',
 	'LBL_MODULE_SELECT' => 'Module to Edit',
 	'LBL_SEARCH_FORM_TITLE' => 'Module Search',
@@ -86,7 +86,7 @@ $mod_strings = array (
 	'COLUMN_TITLE_AUTOINC_NEXT' => 'Auto Increment Next Value',
     'COLUMN_DISABLE_NUMBER_FORMAT' => 'Disable Format',
     'COLUMN_TITLE_ENABLE_RANGE_SEARCH' => 'Enable Range Search',
-    'COLUMN_TITLE_GLOBAL_SEARCH'=>'Global Search',	
+    'COLUMN_TITLE_GLOBAL_SEARCH'=>'Búsqueda Global',	
 	'LBL_DROP_DOWN_LIST' => 'Drop Down List',
 	'LBL_RADIO_FIELDS'=> 'Radio Fields',
 	'LBL_MULTI_SELECT_LIST'=> 'Multi Select List',
@@ -126,7 +126,7 @@ $mod_strings = array (
 	'LBL_VISIBLE_IF'=>'Visible If',
 	'LBL_ENFORCED'=>'Enforced',
 	'LBL_HELP' => 'Help' /*for 508 compliance fix*/,
-	'COLUMN_TITLE_GLOBAL_SEARCH'=>'Global Search',
+	'COLUMN_TITLE_GLOBAL_SEARCH'=>'Búsqueda Global',
 );
 
 

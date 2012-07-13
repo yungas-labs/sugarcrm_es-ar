@@ -49,7 +49,7 @@ $mod_strings = array (
 'LBL_OOTB_WORKFLOW'		=> 'Process Workflow Tareas',
 'LBL_OOTB_REPORTS'		=> 'Run Report Generation Scheduled Tareas',
 'LBL_OOTB_IE'			=> 'Check Inbound Mailboxes',
-'LBL_OOTB_BOUNCE'		=> 'Run Nightly Process Bounced Campaign Emails',
+'LBL_OOTB_BOUNCE'		=> 'Run Nightly Process Bounced Campaign Correos',
 'LBL_OOTB_CAMPAIGN'		=> 'Run Nightly Mass Email Campaigns',
 'LBL_OOTB_PRUNE'		=> 'Prune Database on 1st of Month',
 'LBL_OOTB_TRACKER'		=> 'Prune Tracker Tables',
@@ -154,7 +154,7 @@ $mod_strings = array (
 'LBL_PERFORMFULLFTSINDEX' => 'Full-text Search Index System',
 
 'LBL_RUNMASSEMAILCAMPAIGN' => 'Run Nightly Mass Email Campaigns',
-'LBL_POLLMONITOREDINBOXESFORBOUNCEDCAMPAIGNEMAILS' => 'Run Nightly Process Bounced Campaign Emails',
+'LBL_POLLMONITOREDINBOXESFORBOUNCEDCAMPAIGNEMAILS' => 'Run Nightly Process Bounced Campaign Correos',
 'LBL_PRUNEDATABASE' => 'Prune Database on 1st of Month',
 'LBL_TRIMTRACKER' => 'Prune Tracker Tables',
 'LBL_SENDEMAILREMINDERS'=> 'Run Email Reminders Sending',

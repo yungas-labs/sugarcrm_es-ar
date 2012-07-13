@@ -50,7 +50,7 @@ $mod_strings = array (
   'LBL_FIRST_NAME' => 'Nombre:',
   'LBL_LAST_NAME' => 'Apellido:',
   'LBL_LIST_LAST_NAME' => 'Apellido',
-  'LBL_PHONE' => 'Phone:',
+  'LBL_PHONE' => 'Teléfono:',
   'LBL_EMAIL_ADDRESS' => 'Dirección de Correo:',
   'LBL_MY_PIPELINE_FORM_TITLE' => 'My Pipeline',
   'LBL_PIPELINE_FORM_TITLE' => 'Pipeline By Sales Stage',
@@ -71,7 +71,7 @@ $mod_strings = array (
   'LBL_ADD_BUSINESSCARD' => 'Enter Business Card',
   'ERR_ONE_CHAR' => 'Please enter at least one letter or number for your search ...',
   'LBL_OPEN_TASKS' => 'My Open Tareas',
-  'LBL_SEARCH_RESULTS' => 'Search Results',
+  'LBL_SEARCH_RESULTS' => 'Resultados de la Búsqueda',
   'LBL_SEARCH_RESULTS_IN' => 'in',
   'LNK_NEW_SEND_EMAIL' => 'Compose Email',
   'LBL_NO_ACCESS' => 'You do not have access to this area.  Contact your site administrator to obtain access',
@@ -243,7 +243,7 @@ $mod_strings = array (
 	'LBL_POWERED_BY_SUGAR' => 'Powered By SugarCRM' /*for 508 compliance fix*/,
 	'LBL_MORE_DETAIL' => 'More Detail' /*for 508 compliance fix*/,
 	'LBL_BASIC_SEARCH' => 'Basic Search' /*for 508 compliance fix*/,
-	'LBL_ADVANCED_SEARCH' => 'Advanced Search' /*for 508 compliance fix*/,
+	'LBL_ADVANCED_SEARCH' => 'Búsqueda Avanzada' /*for 508 compliance fix*/,
 );
 
 
