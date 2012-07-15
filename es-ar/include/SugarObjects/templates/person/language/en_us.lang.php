@@ -82,5 +82,5 @@ $mod_strings = array(
 'LBL_ASSISTANT_PHONE'=>'Teléfono del Secretario',
 'LBL_WORK_PHONE'=>'Teléfono del Trabajo',
 'LNK_IMPORT_VCARD' => 'Creación desde vCard',
-'LBL_ANY_EMAIL' => 'Cualquier Email',
+'LBL_ANY_EMAIL' => 'Algún Email',
 );
